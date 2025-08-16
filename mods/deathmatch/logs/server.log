@@ -1,0 +1,2137 @@
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.6/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-14 13:37:49] Compacting accounts database 'internal.db' ...
+[2025-06-14 13:39:40] Resource 'runcode' requests some acl rights. Use the command 'aclrequest list runcode'
+[2025-06-14 13:40:02] Resources: 201 loaded, 0 failed
+[2025-06-14 13:40:02] Compacting database 'registry.db' ...
+[2025-06-14 13:40:04] Starting resources...
+[2025-06-14 13:40:08] Admin access list successfully updated 
+[2025-06-14 13:40:08] INFO: Admin added 570 missing rights
+[2025-06-14 13:40:08] Server minclientversion is now 1.5.9-9.20957.0
+[2025-06-14 13:40:12] Server minclientversion is now 1.6.0-9.22676
+[2025-06-14 13:40:14] INFO: ===============================================================================
+[2025-06-14 13:40:14] INFO:  MTA:SA HANDLING EDITOR [hedit.github.io]
+[2025-06-14 13:40:14] Gamemode 'play' started.
+[2025-06-14 13:40:15] Querying MTA master server... success! (Auto detected IP:2.51.16.248)
+[2025-06-14 13:40:15] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-06-14 13:40:15] WARNING: <owner_email_address> not set
+[2025-06-14 13:40:15] Server started and is ready to accept connections!
+[2025-06-14 13:40:15] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-14 13:40:15] Type 'help' for a list of commands.
+[2025-06-14 13:40:20] INFO: ===============================================================================
+[2025-06-14 14:01:42] help [command]
+[2025-06-14 14:01:42] Available commands:
+
+start                    stop                     stopall                  
+restart                  refresh                  refreshall               
+list                     info                     upgrade                  
+check                    say                      teamsay                  
+msg                      me                       nick                     
+login                    logout                   chgmypass                
+addaccount               delaccount               chgpass                  
+shutdown                 aexec                    whois                    
+debugscript              help                     loadmodule               
+unloadmodule             reloadmodule             ver                      
+sver                     ase                      openports                
+debugdb                  reloadbans               aclrequest               
+authserial               reloadacl                debugjoinflood           
+debuguptime              sfakelag                 
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.6/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-14 14:10:57] Resource 'runcode' requests some acl rights. Use the command 'aclrequest list runcode'
+[2025-06-14 14:11:09] Resources: 201 loaded, 0 failed
+[2025-06-14 14:11:10] Starting resources...
+[2025-06-14 14:11:10] Server minclientversion is now 1.6.0-9.23088.0
+[2025-06-14 14:11:11] INFO: ===============================================================================
+[2025-06-14 14:11:11] INFO:  MTA:SA HANDLING EDITOR [hedit.github.io]
+[2025-06-14 14:11:11] Gamemode 'play' started.
+[2025-06-14 14:11:11] Querying MTA master server... success! (Auto detected IP:2.51.16.248)
+[2025-06-14 14:11:11] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-06-14 14:11:11] WARNING: <owner_email_address> not set
+[2025-06-14 14:11:11] Server started and is ready to accept connections!
+[2025-06-14 14:11:11] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-14 14:11:11] Type 'help' for a list of commands.
+[2025-06-14 14:11:17] INFO: ===============================================================================
+[2025-06-14 14:11:41] help [command]
+[2025-06-14 14:11:41] Available commands:
+
+start                    stop                     stopall                  
+restart                  refresh                  refreshall               
+list                     info                     upgrade                  
+check                    say                      teamsay                  
+msg                      me                       nick                     
+login                    logout                   chgmypass                
+addaccount               delaccount               chgpass                  
+shutdown                 aexec                    whois                    
+debugscript              help                     loadmodule               
+unloadmodule             reloadmodule             ver                      
+sver                     ase                      openports                
+debugdb                  reloadbans               aclrequest               
+authserial               reloadacl                debugjoinflood           
+debuguptime              sfakelag                 
+[2025-06-14 14:11:56] login: Syntax is 'login [<nick>] <password>'
+[2025-06-14 14:12:01] login: You are already logged in
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.6/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..irst Script/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-17 15:44:03] Compacting accounts database 'internal.db' ...
+[2025-06-17 15:44:05] Resources: 1 loaded, 0 failed
+[2025-06-17 15:44:05] Compacting database 'registry.db' ...
+[2025-06-17 15:44:06] Starting resources...
+[2025-06-17 15:44:06] ERROR: Couldn't find resource admin. Check it exists.
+[2025-06-17 15:44:06] ERROR: Couldn't find resource defaultstats. Check it exists.
+[2025-06-17 15:44:06] ERROR: Couldn't find resource helpmanager. Check it exists.
+[2025-06-17 15:44:06] ERROR: Couldn't find resource joinquit. Check it exists.
+[2025-06-17 15:44:06] ERROR: Couldn't find resource mapcycler. Check it exists.
+[2025-06-17 15:44:06] ERROR: Couldn't find resource mapmanager. Check it exists.
+[2025-06-17 15:44:06] ERROR: Couldn't find resource parachute. Check it exists.
+[2025-06-17 15:44:06] ERROR: Couldn't find resource performancebrowser. Check it exists.
+[2025-06-17 15:44:06] ERROR: Couldn't find resource ipb. Check it exists.
+[2025-06-17 15:44:06] ERROR: Couldn't find resource reload. Check it exists.
+[2025-06-17 15:44:06] ERROR: Couldn't find resource resourcebrowser. Check it exists.
+[2025-06-17 15:44:06] ERROR: Couldn't find resource resourcemanager. Check it exists.
+[2025-06-17 15:44:06] ERROR: Couldn't find resource scoreboard. Check it exists.
+[2025-06-17 15:44:06] ERROR: Couldn't find resource speedometer. Check it exists.
+[2025-06-17 15:44:06] ERROR: Couldn't find resource spawnmanager. Check it exists.
+[2025-06-17 15:44:06] ERROR: Couldn't find resource voice. Check it exists.
+[2025-06-17 15:44:06] ERROR: Couldn't find resource votemanager. Check it exists.
+[2025-06-17 15:44:06] ERROR: Couldn't find resource webadmin. Check it exists.
+[2025-06-17 15:44:06] ERROR: Couldn't find resource playercolors. Check it exists.
+[2025-06-17 15:44:06] ERROR: Couldn't find resource play. Check it exists.
+[2025-06-17 15:44:06] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-06-17 15:44:06] WARNING: <owner_email_address> not set
+[2025-06-17 15:44:06] Server started and is ready to accept connections!
+[2025-06-17 15:44:06] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-17 15:44:06] Type 'help' for a list of commands.
+[2025-06-17 15:44:08] Querying MTA master server... success! (Auto detected IP:2.51.16.248)
+[2025-06-17 15:44:30] SHUTDOWN: Got shutdown command from Console (No reason specified)
+[2025-06-17 15:44:30] Server stopped!
+[2025-06-17 15:44:30] Stopping resources...
+[2025-06-17 15:44:30] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : LJ MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..irst Script/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-17 15:59:49] Resources: 2 loaded, 0 failed
+[2025-06-17 15:59:49] Starting resources...
+[2025-06-17 15:59:49] SCRIPT ERROR: players\p.lua:9: ')' expected near 'To'
+[2025-06-17 15:59:49] ERROR: Loading script failed: players\p.lua:9: ')' expected near 'To'
+[2025-06-17 15:59:49] Server minclientversion is now 1.6.0-9.23088.0
+[2025-06-17 15:59:49] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-06-17 15:59:49] Server started and is ready to accept connections!
+[2025-06-17 15:59:49] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-17 15:59:49] Type 'help' for a list of commands.
+[2025-06-17 15:59:50] Querying MTA master server... success! (Auto detected IP:2.51.16.248)
+[2025-06-17 16:29:56] help [command]
+[2025-06-17 16:29:56] Available commands:
+
+start                    stop                     stopall                  
+restart                  refresh                  refreshall               
+list                     info                     upgrade                  
+check                    say                      teamsay                  
+msg                      me                       nick                     
+login                    logout                   chgmypass                
+addaccount               delaccount               chgpass                  
+shutdown                 aexec                    whois                    
+debugscript              help                     loadmodule               
+unloadmodule             reloadmodule             ver                      
+sver                     ase                      openports                
+debugdb                  reloadbans               aclrequest               
+authserial               reloadacl                debugjoinflood           
+debuguptime              sfakelag                 
+[2025-06-17 16:30:17] Server stopped!
+[2025-06-17 16:30:17] Stopping resources.....
+[2025-06-17 16:30:18] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : LJ MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..irst Script/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-17 16:30:40] Resources: 2 loaded, 0 failed
+[2025-06-17 16:30:41] Starting resources...
+[2025-06-17 16:30:41] SCRIPT ERROR: players\p.lua:9: ')' expected near 'To'
+[2025-06-17 16:30:41] ERROR: Loading script failed: players\p.lua:9: ')' expected near 'To'
+[2025-06-17 16:30:41] Server minclientversion is now 1.6.0-9.23088.0
+[2025-06-17 16:30:41] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-06-17 16:30:41] Server started and is ready to accept connections!
+[2025-06-17 16:30:41] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-17 16:30:41] Type 'help' for a list of commands.
+[2025-06-17 16:30:42] Querying MTA master server... success! (Auto detected IP:2.51.16.248)
+[2025-06-17 16:32:04] Server stopped!
+[2025-06-17 16:32:04] Stopping resources.....
+[2025-06-17 16:32:04] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : LJ MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..irst Script/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-17 16:32:10] Resources: 2 loaded, 0 failed
+[2025-06-17 16:32:10] Starting resources...
+[2025-06-17 16:32:10] ERROR: players\p.lua:3: attempt to call global 'AddEventHandler' (a nil value)
+[2025-06-17 16:32:10] Server minclientversion is now 1.6.0-9.23088.0
+[2025-06-17 16:32:10] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-06-17 16:32:10] Server started and is ready to accept connections!
+[2025-06-17 16:32:10] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-17 16:32:10] Type 'help' for a list of commands.
+[2025-06-17 16:32:11] Querying MTA master server... success! (Auto detected IP:2.51.16.248)
+[2025-06-17 16:32:57] CONNECT: Liam_Jhon connected (IP: 192.168.1.148  Serial: CD25BFE185A89FB3E5A21C620B26D033  Version: 1.6.0-9.23196.0)
+[2025-06-17 16:33:13] JOIN: Liam_Jhon joined the game (IP: 192.168.1.148)
+[2025-06-17 16:33:42] CHAT: Liam_Jhon: hi
+[2025-06-17 16:36:09] help [command]
+[2025-06-17 16:36:09] Available commands:
+
+start                    stop                     stopall                  
+restart                  refresh                  refreshall               
+list                     info                     upgrade                  
+check                    say                      teamsay                  
+msg                      me                       nick                     
+login                    logout                   chgmypass                
+addaccount               delaccount               chgpass                  
+shutdown                 aexec                    whois                    
+debugscript              help                     loadmodule               
+unloadmodule             reloadmodule             ver                      
+sver                     ase                      openports                
+debugdb                  reloadbans               aclrequest               
+authserial               reloadacl                debugjoinflood           
+debuguptime              sfakelag                 
+[2025-06-17 16:36:12] * Syntax: restart <resource1> <resource2> ...
+[2025-06-17 16:36:34] Server stopped!
+[2025-06-17 16:36:34] Stopping resources.....
+[2025-06-17 16:36:35] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : LJ MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..irst Script/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-17 16:36:44] Resources: 2 loaded, 0 failed
+[2025-06-17 16:36:45] Starting resources...
+[2025-06-17 16:36:45] SCRIPT ERROR: players\p.lua:1: unexpected symbol near '<'
+[2025-06-17 16:36:45] ERROR: Loading script failed: players\p.lua:1: unexpected symbol near '<'
+[2025-06-17 16:36:45] Server minclientversion is now 1.6.0-9.23088.0
+[2025-06-17 16:36:45] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-06-17 16:36:45] Server started and is ready to accept connections!
+[2025-06-17 16:36:45] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-17 16:36:45] Type 'help' for a list of commands.
+[2025-06-17 16:36:45] Querying MTA master server... success! (Auto detected IP:2.51.16.248)
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : LJ MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..irst Script/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-17 16:37:33] Resources: 2 loaded, 0 failed
+[2025-06-17 16:37:33] Starting resources...
+[2025-06-17 16:37:33] SCRIPT ERROR: players\p.lua:12: '<eof>' expected near 'end'
+[2025-06-17 16:37:33] ERROR: Loading script failed: players\p.lua:12: '<eof>' expected near 'end'
+[2025-06-17 16:37:33] Server minclientversion is now 1.6.0-9.23088.0
+[2025-06-17 16:37:33] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-06-17 16:37:33] Server started and is ready to accept connections!
+[2025-06-17 16:37:33] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-17 16:37:33] Type 'help' for a list of commands.
+[2025-06-17 16:37:34] Querying MTA master server... success! (Auto detected IP:2.51.16.248)
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : LJ MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..irst Script/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-17 16:38:00] Resources: 2 loaded, 0 failed
+[2025-06-17 16:38:00] Starting resources....
+[2025-06-17 16:38:00] Server minclientversion is now 1.6.0-9.23088.0
+[2025-06-17 16:38:00] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-06-17 16:38:00] Server started and is ready to accept connections!
+[2025-06-17 16:38:00] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-17 16:38:00] Type 'help' for a list of commands.
+[2025-06-17 16:38:01] Querying MTA master server... success! (Auto detected IP:2.51.16.248)
+[2025-06-17 16:38:25] CONNECT: Liam_Jhon connected (IP: 192.168.1.148  Serial: CD25BFE185A89FB3E5A21C620B26D033  Version: 1.6.0-9.23196.0)
+[2025-06-17 16:38:25] JOIN: Liam_Jhon joined the game (IP: 192.168.1.148)
+[2025-06-17 16:38:52] CHAT: Liam_Jhon: hi
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : LJ MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..irst Script/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-17 16:40:23] Resources: 2 loaded, 0 failed
+[2025-06-17 16:40:23] Starting resources...
+[2025-06-17 16:40:23] ERROR: players\p.lua:3: attempt to call global 'AddEventHandler' (a nil value)
+[2025-06-17 16:40:23] Server minclientversion is now 1.6.0-9.23088.0
+[2025-06-17 16:40:23] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-06-17 16:40:23] Server started and is ready to accept connections!
+[2025-06-17 16:40:23] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-17 16:40:23] Type 'help' for a list of commands.
+[2025-06-17 16:40:24] Querying MTA master server... success! (Auto detected IP:2.51.16.248)
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : LJ MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..irst Script/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-17 16:41:07] Resources: 2 loaded, 0 failed
+[2025-06-17 16:41:07] Starting resources...
+[2025-06-17 16:41:07] ERROR: players\p.lua:3: attempt to call global 'AddEventHandler' (a nil value)
+[2025-06-17 16:41:07] Server minclientversion is now 1.6.0-9.23088.0
+[2025-06-17 16:41:07] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-06-17 16:41:07] Server started and is ready to accept connections!
+[2025-06-17 16:41:07] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-17 16:41:07] Type 'help' for a list of commands.
+[2025-06-17 16:41:08] Querying MTA master server... success! (Auto detected IP:2.51.16.248)
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : LJ MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..irst Script/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-17 16:41:59] Resources: 2 loaded, 0 failed
+[2025-06-17 16:41:59] Starting resources....
+[2025-06-17 16:41:59] Server minclientversion is now 1.6.0-9.23088.0
+[2025-06-17 16:41:59] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-06-17 16:41:59] Server started and is ready to accept connections!
+[2025-06-17 16:41:59] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-17 16:41:59] Type 'help' for a list of commands.
+[2025-06-17 16:42:00] Querying MTA master server... success! (Auto detected IP:2.51.16.248)
+[2025-06-17 16:42:09] CONNECT: Liam_Jhon connected (IP: 192.168.1.148  Serial: CD25BFE185A89FB3E5A21C620B26D033  Version: 1.6.0-9.23196.0)
+[2025-06-17 16:42:09] JOIN: Liam_Jhon joined the game (IP: 192.168.1.148)
+[2025-06-17 16:42:09] WARNING: players\p.lua:5: Bad argument @ 'spawnPlayer' [Expected vector3 at argument 2, got nil]
+[2025-06-17 16:42:09] ERROR: players\p.lua:9: attempt to call upvalue 'SCM' (a nil value)
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : LJ MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..irst Script/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-17 16:43:07] Resources: 2 loaded, 0 failed
+[2025-06-17 16:43:07] Starting resources...
+[2025-06-17 16:43:07] SCRIPT ERROR: players\p.lua:5: ')' expected near '1.'
+[2025-06-17 16:43:07] ERROR: Loading script failed: players\p.lua:5: ')' expected near '1.'
+[2025-06-17 16:43:07] Server minclientversion is now 1.6.0-9.23088.0
+[2025-06-17 16:43:07] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-06-17 16:43:07] Server started and is ready to accept connections!
+[2025-06-17 16:43:07] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-17 16:43:07] Type 'help' for a list of commands.
+[2025-06-17 16:43:08] Querying MTA master server... success! (Auto detected IP:2.51.16.248)
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : LJ MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..irst Script/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-17 16:43:32] Resources: 2 loaded, 0 failed
+[2025-06-17 16:43:32] Starting resources....
+[2025-06-17 16:43:32] Server minclientversion is now 1.6.0-9.23088.0
+[2025-06-17 16:43:32] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-06-17 16:43:32] Server started and is ready to accept connections!
+[2025-06-17 16:43:32] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-17 16:43:32] Type 'help' for a list of commands.
+[2025-06-17 16:43:33] Querying MTA master server... success! (Auto detected IP:2.51.16.248)
+[2025-06-17 16:43:40] CONNECT: Liam_Jhon connected (IP: 192.168.1.148  Serial: CD25BFE185A89FB3E5A21C620B26D033  Version: 1.6.0-9.23196.0)
+[2025-06-17 16:43:40] JOIN: Liam_Jhon joined the game (IP: 192.168.1.148)
+[2025-06-17 16:43:40] ERROR: players\p.lua:9: attempt to call upvalue 'SCM' (a nil value)
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : LJ MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..irst Script/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-17 16:44:23] Resources: 2 loaded, 0 failed
+[2025-06-17 16:44:23] Starting resources...
+[2025-06-17 16:44:23] Server minclientversion is now 1.6.0-9.23088.0
+[2025-06-17 16:44:23] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-06-17 16:44:23] Server started and is ready to accept connections!
+[2025-06-17 16:44:23] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-17 16:44:23] Type 'help' for a list of commands.
+[2025-06-17 16:44:24] Querying MTA master server... success! (Auto detected IP:2.51.16.248)
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : LJ MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..irst Script/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-17 16:44:45] Resources: 2 loaded, 0 failed
+[2025-06-17 16:44:45] Starting resources...
+[2025-06-17 16:44:45] Server minclientversion is now 1.6.0-9.23088.0
+[2025-06-17 16:44:45] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-06-17 16:44:45] Server started and is ready to accept connections!
+[2025-06-17 16:44:45] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-17 16:44:45] Type 'help' for a list of commands.
+[2025-06-17 16:44:46] Querying MTA master server... success! (Auto detected IP:2.51.16.248)
+[2025-06-17 16:44:54] CONNECT: Liam_Jhon connected (IP: 192.168.1.148  Serial: CD25BFE185A89FB3E5A21C620B26D033  Version: 1.6.0-9.23196.0)
+[2025-06-17 16:44:54] JOIN: Liam_Jhon joined the game (IP: 192.168.1.148)
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : LJ MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..irst Script/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-17 16:45:35] Resources: 2 loaded, 0 failed
+[2025-06-17 16:45:35] Starting resources....
+[2025-06-17 16:45:35] Server minclientversion is now 1.6.0-9.23088.0
+[2025-06-17 16:45:35] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-06-17 16:45:35] Server started and is ready to accept connections!
+[2025-06-17 16:45:35] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-17 16:45:35] Type 'help' for a list of commands.
+[2025-06-17 16:45:36] Querying MTA master server... success! (Auto detected IP:2.51.16.248)
+[2025-06-17 16:45:50] CONNECT: Liam_Jhon connected (IP: 192.168.1.148  Serial: CD25BFE185A89FB3E5A21C620B26D033  Version: 1.6.0-9.23196.0)
+[2025-06-17 16:45:50] JOIN: Liam_Jhon joined the game (IP: 192.168.1.148)
+[2025-06-17 16:45:50] ERROR: players\p.lua:9: attempt to call upvalue 'SCM' (a nil value)
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : LJ MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..irst Script/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-17 17:03:54] Resources: 2 loaded, 0 failed
+[2025-06-17 17:03:54] Starting resources....
+[2025-06-17 17:03:54] Server minclientversion is now 1.6.0-9.23088.0
+[2025-06-17 17:03:54] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-06-17 17:03:54] Server started and is ready to accept connections!
+[2025-06-17 17:03:54] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-17 17:03:54] Type 'help' for a list of commands.
+[2025-06-17 17:03:54] Querying MTA master server... success! (Auto detected IP:2.51.16.248)
+[2025-06-17 17:04:04] CONNECT: Liam_Jhon connected (IP: 192.168.1.148  Serial: CD25BFE185A89FB3E5A21C620B26D033  Version: 1.6.0-9.23196.0)
+[2025-06-17 17:04:04] JOIN: Liam_Jhon joined the game (IP: 192.168.1.148)
+[2025-06-17 17:05:29] * Syntax: restart <resource1> <resource2> ...
+[2025-06-17 17:05:35] restart: Requested by Console
+[2025-06-17 17:05:35] restart: Resource 'resource1' could not be found
+[2025-06-17 17:05:45] restart: Requested by Console
+[2025-06-17 17:05:45] restart: Resource 'resource' could not be found
+[2025-06-17 17:05:58] restart: Requested by Console
+[2025-06-17 17:05:58] restart: Resource '<players>' could not be found
+[2025-06-17 17:05:58] restart: Resource '<Loading>' could not be found
+[2025-06-17 17:06:03] SHUTDOWN: Got shutdown command from Console (No reason specified)
+[2025-06-17 17:06:04] Server stopped!
+[2025-06-17 17:06:04] Stopping resources.....
+[2025-06-17 17:06:04] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : LJ MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..irst Script/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-17 17:06:11] Resources: 2 loaded, 0 failed
+[2025-06-17 17:06:11] Starting resources.....
+[2025-06-17 17:06:11] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-06-17 17:06:11] Server started and is ready to accept connections!
+[2025-06-17 17:06:11] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-17 17:06:11] Type 'help' for a list of commands.
+[2025-06-17 17:06:12] Querying MTA master server... success! (Auto detected IP:2.51.16.248)
+[2025-06-17 17:06:19] Server minclientversion is now 1.6.0-9.23088.0
+[2025-06-17 17:06:19] CONNECT: Liam_Jhon connected (IP: 192.168.1.148  Serial: CD25BFE185A89FB3E5A21C620B26D033  Version: 1.6.0-9.23196.0)
+[2025-06-17 17:06:19] JOIN: Liam_Jhon joined the game (IP: 192.168.1.148)
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : LJ MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..irst Script/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-17 17:07:32] Resources: 2 loaded, 0 failed
+[2025-06-17 17:07:32] Starting resources...
+[2025-06-17 17:07:32] SCRIPT ERROR: players\p.lua:11: ')' expected (to close '(' at line 10) near 'function'
+[2025-06-17 17:07:32] ERROR: Loading script failed: players\p.lua:11: ')' expected (to close '(' at line 10) near 'function'
+[2025-06-17 17:07:32] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-06-17 17:07:32] Server started and is ready to accept connections!
+[2025-06-17 17:07:32] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-17 17:07:32] Type 'help' for a list of commands.
+[2025-06-17 17:07:33] Querying MTA master server... success! (Auto detected IP:2.51.16.248)
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : LJ MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..irst Script/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-17 17:11:38] Resources: 2 loaded, 0 failed
+[2025-06-17 17:11:38] Starting resources.....
+[2025-06-17 17:11:38] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-06-17 17:11:38] Server started and is ready to accept connections!
+[2025-06-17 17:11:38] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-17 17:11:38] Type 'help' for a list of commands.
+[2025-06-17 17:11:38] Querying MTA master server... success! (Auto detected IP:2.51.16.248)
+[2025-06-17 17:11:48] Server minclientversion is now 1.6.0-9.23088.0
+[2025-06-17 17:11:48] CONNECT: Liam_Jhon connected (IP: 192.168.1.148  Serial: CD25BFE185A89FB3E5A21C620B26D033  Version: 1.6.0-9.23196.0)
+[2025-06-17 17:11:48] JOIN: Liam_Jhon joined the game (IP: 192.168.1.148)
+[2025-06-17 17:12:00] CHAT: Liam_Jhon: login
+[2025-06-17 17:12:41] restart: Requested by Console
+[2025-06-17 17:12:41] restart: Resource 'player' could not be found
+[2025-06-17 17:13:17] help [command]
+[2025-06-17 17:13:17] Available commands:
+
+start                    stop                     stopall                  
+restart                  refresh                  refreshall               
+list                     info                     upgrade                  
+check                    say                      teamsay                  
+msg                      me                       nick                     
+login                    logout                   chgmypass                
+addaccount               delaccount               chgpass                  
+shutdown                 aexec                    whois                    
+debugscript              help                     loadmodule               
+unloadmodule             reloadmodule             ver                      
+sver                     ase                      openports                
+debugdb                  reloadbans               aclrequest               
+authserial               reloadacl                debugjoinflood           
+debuguptime              sfakelag                 
+[2025-06-17 17:13:35] stopall: Stopping all resources
+[2025-06-17 17:13:35] Stopping resources.....
+[2025-06-17 17:13:39] * Syntax: start <resource1> <resource2> ...
+[2025-06-17 17:13:51] start: Requested by Console
+[2025-06-17 17:13:51] Resource 'players' changed, reloading and starting
+[2025-06-17 17:13:51] Starting players
+[2025-06-17 17:13:51] start: Resource 'players' started
+[2025-06-17 17:14:01] start: Requested by Console
+[2025-06-17 17:14:01] start: Resource '/players' could not be found
+[2025-06-17 17:14:28] SHUTDOWN: Got shutdown command from Console (No reason specified)
+[2025-06-17 17:14:28] Server stopped!
+[2025-06-17 17:14:28] Stopping resources....
+[2025-06-17 17:14:28] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : LJ MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..irst Script/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-17 17:14:32] Resources: 2 loaded, 0 failed
+[2025-06-17 17:14:32] Starting resources.....
+[2025-06-17 17:14:32] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-06-17 17:14:32] Server started and is ready to accept connections!
+[2025-06-17 17:14:32] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-17 17:14:32] Type 'help' for a list of commands.
+[2025-06-17 17:14:33] Querying MTA master server... success! (Auto detected IP:2.51.16.248)
+[2025-06-17 17:14:42] Server minclientversion is now 1.6.0-9.23088.0
+[2025-06-17 17:14:42] CONNECT: Liam_Jhon connected (IP: 192.168.1.148  Serial: CD25BFE185A89FB3E5A21C620B26D033  Version: 1.6.0-9.23196.0)
+[2025-06-17 17:14:43] JOIN: Liam_Jhon joined the game (IP: 192.168.1.148)
+[2025-06-17 17:14:46] WARNING: players\p.lua:12: Bad argument @ 'spawnPlayer' [Expected player at argument 1, got nil]
+[2025-06-17 17:14:46] WARNING: players\p.lua:13: Bad argument @ 'fadeCamera' [Expected element at argument 1, got nil]
+[2025-06-17 17:14:46] WARNING: players\p.lua:14: Bad argument @ 'setCameraTarget' [Expected element at argument 1, got nil]
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : LJ MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..irst Script/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-17 17:15:47] Resources: 2 loaded, 0 failed
+[2025-06-17 17:15:47] Starting resources...
+[2025-06-17 17:15:47] WARNING: players\p.lua:10: Bad argument @ 'triggerClientEvent' [Expected string at argument 1, got nil]
+[2025-06-17 17:15:47] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-06-17 17:15:47] Server started and is ready to accept connections!
+[2025-06-17 17:15:47] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-17 17:15:47] Type 'help' for a list of commands.
+[2025-06-17 17:15:48] Querying MTA master server... success! (Auto detected IP:2.51.16.248)
+[2025-06-17 17:16:00] Server minclientversion is now 1.6.0-9.23088.0
+[2025-06-17 17:16:00] CONNECT: Liam_Jhon connected (IP: 192.168.1.148  Serial: CD25BFE185A89FB3E5A21C620B26D033  Version: 1.6.0-9.23196.0)
+[2025-06-17 17:16:00] JOIN: Liam_Jhon joined the game (IP: 192.168.1.148)
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : LJ MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..irst Script/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-17 17:17:39] Resources: 2 loaded, 0 failed
+[2025-06-17 17:17:39] Starting resources...
+[2025-06-17 17:17:39] Server minclientversion is now 1.6.0-9.23088.0
+[2025-06-17 17:17:39] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-06-17 17:17:39] Server started and is ready to accept connections!
+[2025-06-17 17:17:39] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-17 17:17:39] Type 'help' for a list of commands.
+[2025-06-17 17:17:40] Querying MTA master server... success! (Auto detected IP:2.51.16.248)
+[2025-06-17 17:17:59] CONNECT: Liam_Jhon connected (IP: 192.168.1.148  Serial: CD25BFE185A89FB3E5A21C620B26D033  Version: 1.6.0-9.23196.0)
+[2025-06-17 17:17:59] JOIN: Liam_Jhon joined the game (IP: 192.168.1.148)
+[2025-06-17 17:18:25] QUIT: Liam_Jhon left the game [Quit] 
+[2025-06-17 17:19:38] restart: Requested by Console
+[2025-06-17 17:19:38] restart: Resource '<players>' could not be found
+[2025-06-17 17:19:48] restart: Requested by Console
+[2025-06-17 17:19:48] restart: Resource 'players' is not running
+[2025-06-17 17:19:57] start: Requested by Console
+[2025-06-17 17:19:57] Starting players
+[2025-06-17 17:19:57] WARNING: players\p.lua:10: Bad argument @ 'triggerClientEvent' [Expected string at argument 1, got nil]
+[2025-06-17 17:19:57] start: Resource 'players' started
+[2025-06-17 17:20:22] restart: Requested by Console
+[2025-06-17 17:20:22] restart: Resource 'players' restarting...
+[2025-06-17 17:20:22] Stopping players
+[2025-06-17 17:20:22] Resource 'players' changed, reloading and starting
+[2025-06-17 17:20:22] Starting players
+[2025-06-17 17:20:22] players restarted successfully
+[2025-06-17 17:20:28] restart: Requested by Console
+[2025-06-17 17:20:28] restart: Resource 'Loading' restarting...
+[2025-06-17 17:20:28] Stopping Loading
+[2025-06-17 17:20:28] Resource 'Loading' changed, reloading and starting
+[2025-06-17 17:20:28] Starting Loading
+[2025-06-17 17:20:28] Loading restarted successfully
+[2025-06-17 17:20:48] CONNECT: Liam_Jhon connected (IP: 192.168.1.148  Serial: CD25BFE185A89FB3E5A21C620B26D033  Version: 1.6.0-9.23196.0)
+[2025-06-17 17:20:48] JOIN: Liam_Jhon joined the game (IP: 192.168.1.148)
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : LJ MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..irst Script/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-17 17:32:47] Resources: 2 loaded, 0 failed
+[2025-06-17 17:32:47] Starting resources...
+[2025-06-17 17:32:47] Server minclientversion is now 1.6.0-9.23088.0
+[2025-06-17 17:32:47] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-06-17 17:32:47] Server started and is ready to accept connections!
+[2025-06-17 17:32:47] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-17 17:32:47] Type 'help' for a list of commands.
+[2025-06-17 17:32:48] Querying MTA master server... success! (Auto detected IP:2.51.16.248)
+[2025-06-17 17:33:31] CONNECT: Liam_Jhon connected (IP: 192.168.1.148  Serial: CD25BFE185A89FB3E5A21C620B26D033  Version: 1.6.0-9.23196.0)
+[2025-06-17 17:33:32] JOIN: Liam_Jhon joined the game (IP: 192.168.1.148)
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : LJ MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..irst Script/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-17 17:44:00] Resources: 2 loaded, 0 failed
+[2025-06-17 17:44:00] Starting resources...
+[2025-06-17 17:44:00] Server minclientversion is now 1.6.0-9.23088.0
+[2025-06-17 17:44:00] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-06-17 17:44:00] Server started and is ready to accept connections!
+[2025-06-17 17:44:00] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-17 17:44:00] Type 'help' for a list of commands.
+[2025-06-17 17:44:01] Querying MTA master server... success! (Auto detected IP:2.51.16.248)
+[2025-06-17 17:44:12] CONNECT: Liam_Jhon connected (IP: 192.168.1.148  Serial: CD25BFE185A89FB3E5A21C620B26D033  Version: 1.6.0-9.23196.0)
+[2025-06-17 17:44:12] JOIN: Liam_Jhon joined the game (IP: 192.168.1.148)
+[2025-06-17 17:44:28] CHAT: Liam_Jhon: g
+[2025-06-17 17:45:48] CHAT: Liam_Jhon: \
+[2025-06-17 17:45:56] ACL: Denied 'Liam_Jhon' access to command 'debugscript'
+[2025-06-17 17:46:07] LOGIN: (Everyone) Liam_Jhon successfully logged in as 'lj' (IP: 192.168.1.148  Serial: CD25BFE185A89FB3E5A21C620B26D033)
+[2025-06-17 17:46:27] ACL: Denied 'Liam_Jhon' access to command 'debugscript'
+[2025-06-17 17:46:35] help [command]
+[2025-06-17 17:46:35] Available commands:
+
+start                    stop                     stopall                  
+restart                  refresh                  refreshall               
+list                     info                     upgrade                  
+check                    say                      teamsay                  
+msg                      me                       nick                     
+login                    logout                   chgmypass                
+addaccount               delaccount               chgpass                  
+shutdown                 aexec                    whois                    
+debugscript              help                     loadmodule               
+unloadmodule             reloadmodule             ver                      
+sver                     ase                      openports                
+debugdb                  reloadbans               aclrequest               
+authserial               reloadacl                debugjoinflood           
+debuguptime              sfakelag                 
+[2025-06-17 17:46:56] nick: Only players can change their nick
+[2025-06-17 17:47:01] nick: Only players can change their nick
+[2025-06-17 17:47:06] debugscript: Incorrect client type for this command
+[2025-06-17 17:47:18] Master server list queries: 0
+[2025-06-17 17:47:37] Usage: aclrequest [list|allow|deny] <resource> [<right>|all]
+[2025-06-17 17:49:23] Server stopped!
+[2025-06-17 17:49:23] Stopping resources.....
+[2025-06-17 17:49:23] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : LJ MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..irst Script/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-17 17:49:28] Resources: 2 loaded, 0 failed
+[2025-06-17 17:49:28] Starting resources...
+[2025-06-17 17:49:28] Server minclientversion is now 1.6.0-9.23088.0
+[2025-06-17 17:49:28] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-06-17 17:49:28] Server started and is ready to accept connections!
+[2025-06-17 17:49:28] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-17 17:49:28] Type 'help' for a list of commands.
+[2025-06-17 17:49:29] Querying MTA master server... success! (Auto detected IP:2.51.16.248)
+[2025-06-17 17:49:47] CONNECT: Liam_Jhon connected (IP: 192.168.1.148  Serial: CD25BFE185A89FB3E5A21C620B26D033  Version: 1.6.0-9.23196.0)
+[2025-06-17 17:49:47] JOIN: Liam_Jhon joined the game (IP: 192.168.1.148)
+[2025-06-17 17:50:05] SCRIPT: Liam_Jhon(guest) set their script debug mode to 3
+[2025-06-17 18:08:18] Server stopped!
+[2025-06-17 18:08:18] Stopping resources.....
+[2025-06-17 18:08:18] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : LJ MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..irst Script/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-17 18:09:58] Resources: 2 loaded, 0 failed
+[2025-06-17 18:09:59] Starting resources.....
+[2025-06-17 18:09:59] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-06-17 18:09:59] Server started and is ready to accept connections!
+[2025-06-17 18:09:59] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-17 18:09:59] Type 'help' for a list of commands.
+[2025-06-17 18:10:00] Querying MTA master server... success! (Auto detected IP:2.51.16.248)
+[2025-06-17 18:10:13] start: Requested by Console
+[2025-06-17 18:10:13] start: Resource 'loading' is already running
+[2025-06-17 18:10:31] start: Requested by Console
+[2025-06-17 18:10:31] start: Resource 'players' is already running
+[2025-06-17 18:10:43] restart: Requested by Console
+[2025-06-17 18:10:43] restart: Resource 'server' could not be found
+[2025-06-17 18:11:01] restart: Requested by Console
+[2025-06-17 18:11:01] restart: Resource 'loading' restarting...
+[2025-06-17 18:11:01] Stopping Loading
+[2025-06-17 18:11:01] Starting Loading
+[2025-06-17 18:11:01] Loading restarted successfully
+[2025-06-17 18:11:13] restart: Requested by Console
+[2025-06-17 18:11:13] restart: Resource 'player' could not be found
+[2025-06-17 18:11:19] restart: Requested by Console
+[2025-06-17 18:11:19] restart: Resource 'players' restarting...
+[2025-06-17 18:11:19] Stopping players
+[2025-06-17 18:11:19] Starting players
+[2025-06-17 18:11:19] players restarted successfully
+[2025-06-17 18:11:25] start: Requested by Console
+[2025-06-17 18:11:25] start: Resource 'loading' is already running
+[2025-06-17 18:11:31] start: Requested by Console
+[2025-06-17 18:11:31] start: Resource 'players' is already running
+[2025-06-17 18:12:00] Server minclientversion is now 1.6.0-9.23088.0
+[2025-06-17 18:12:00] CONNECT: Liam_Jhon connected (IP: 192.168.1.148  Serial: CD25BFE185A89FB3E5A21C620B26D033  Version: 1.6.0-9.23196.0)
+[2025-06-17 18:12:00] JOIN: Liam_Jhon joined the game (IP: 192.168.1.148)
+[2025-06-17 18:12:38] CHAT: Liam_Jhon: f
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : LJ MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..irst Script/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-17 18:16:49] Resources: 2 loaded, 0 failed
+[2025-06-17 18:16:49] Starting resources.....
+[2025-06-17 18:16:49] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-06-17 18:16:49] Server started and is ready to accept connections!
+[2025-06-17 18:16:49] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-17 18:16:49] Type 'help' for a list of commands.
+[2025-06-17 18:16:49] Querying MTA master server... success! (Auto detected IP:2.51.16.248)
+[2025-06-17 18:17:21] restart: Requested by Console
+[2025-06-17 18:17:21] restart: Resource 'players' restarting...
+[2025-06-17 18:17:21] Stopping players
+[2025-06-17 18:17:21] Resource 'players' changed, reloading and starting
+[2025-06-17 18:17:21] Starting players
+[2025-06-17 18:17:21] INFO:  message here
+[2025-06-17 18:17:21] players restarted successfully
+[2025-06-17 18:17:27] restart: Requested by Console
+[2025-06-17 18:17:27] restart: Resource 'loading' restarting...
+[2025-06-17 18:17:27] Stopping Loading
+[2025-06-17 18:17:27] Resource 'Loading' changed, reloading and starting
+[2025-06-17 18:17:27] Starting Loading
+[2025-06-17 18:17:27] Loading restarted successfully
+[2025-06-17 18:18:03] restart: Requested by Console
+[2025-06-17 18:18:03] restart: Resource 'loading' restarting...
+[2025-06-17 18:18:03] Stopping Loading
+[2025-06-17 18:18:03] Resource 'Loading' changed, reloading and starting
+[2025-06-17 18:18:03] Starting Loading
+[2025-06-17 18:18:03] INFO: Your message here
+[2025-06-17 18:18:03] Loading restarted successfully
+[2025-06-17 18:18:15] Server stopped!
+[2025-06-17 18:18:15] Stopping resources.....
+[2025-06-17 18:18:15] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : LJ MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..irst Script/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-17 18:18:18] Resources: 2 loaded, 0 failed
+[2025-06-17 18:18:18] Starting resources...
+[2025-06-17 18:18:18] INFO: Your message here
+[2025-06-17 18:18:18] INFO:  message here
+[2025-06-17 18:18:18] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-06-17 18:18:18] Server started and is ready to accept connections!
+[2025-06-17 18:18:18] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-17 18:18:18] Type 'help' for a list of commands.
+[2025-06-17 18:18:19] Querying MTA master server... success! (Auto detected IP:2.51.16.248)
+[2025-06-17 18:18:32] Server minclientversion is now 1.6.0-9.23088.0
+[2025-06-17 18:18:32] CONNECT: Liam_Jhon connected (IP: 192.168.1.148  Serial: CD25BFE185A89FB3E5A21C620B26D033  Version: 1.6.0-9.23196.0)
+[2025-06-17 18:18:32] JOIN: Liam_Jhon joined the game (IP: 192.168.1.148)
+[2025-06-17 18:18:46] CHAT: Liam_Jhon: s
+[2025-06-17 18:19:00] ERROR: Loading\client.lua:2: attempt to call global 'guiGetScreenSize' (a nil value)
+[2025-06-17 18:20:02] Server stopped!
+[2025-06-17 18:20:02] Stopping resources.....
+[2025-06-17 18:20:02] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : LJ MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..irst Script/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-17 18:20:06] Resources: 2 loaded, 0 failed
+[2025-06-17 18:20:06] Starting resources....
+[2025-06-17 18:20:06] Server minclientversion is now 1.6.0-9.23088.0
+[2025-06-17 18:20:06] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-06-17 18:20:06] Server started and is ready to accept connections!
+[2025-06-17 18:20:06] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-17 18:20:06] Type 'help' for a list of commands.
+[2025-06-17 18:20:07] Querying MTA master server... success! (Auto detected IP:2.51.16.248)
+[2025-06-17 18:20:16] CONNECT: Liam_Jhon connected (IP: 192.168.1.148  Serial: CD25BFE185A89FB3E5A21C620B26D033  Version: 1.6.0-9.23196.0)
+[2025-06-17 18:20:16] JOIN: Liam_Jhon joined the game (IP: 192.168.1.148)
+[2025-06-17 18:58:19] restart: Requested by Console
+[2025-06-17 18:58:19] restart: Resource 'players' restarting...
+[2025-06-17 18:58:19] Stopping players
+[2025-06-17 18:58:19] Resource 'players' changed, reloading and starting
+[2025-06-17 18:58:19] Starting players
+[2025-06-17 18:58:19] players restarted successfully
+[2025-06-17 18:58:33] QUIT: Liam_Jhon left the game [Quit] 
+[2025-06-17 18:58:43] CONNECT: Liam_Jhon connected (IP: 192.168.1.148  Serial: CD25BFE185A89FB3E5A21C620B26D033  Version: 1.6.0-9.23196.0)
+[2025-06-17 18:58:43] JOIN: Liam_Jhon joined the game (IP: 192.168.1.148)
+[2025-06-17 18:59:13] Server stopped!
+[2025-06-17 18:59:13] Stopping resources.....
+[2025-06-17 18:59:13] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : LJ MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..irst Script/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-17 18:59:36] Resources: 2 loaded, 0 failed
+[2025-06-17 18:59:36] Starting resources....
+[2025-06-17 18:59:36] Server minclientversion is now 1.6.0-9.23088.0
+[2025-06-17 18:59:36] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-06-17 18:59:36] Server started and is ready to accept connections!
+[2025-06-17 18:59:36] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-17 18:59:36] Type 'help' for a list of commands.
+[2025-06-17 18:59:37] Querying MTA master server... success! (Auto detected IP:2.51.16.248)
+[2025-06-17 18:59:43] CONNECT: Liam_Jhon connected (IP: 192.168.1.148  Serial: CD25BFE185A89FB3E5A21C620B26D033  Version: 1.6.0-9.23196.0)
+[2025-06-17 18:59:43] JOIN: Liam_Jhon joined the game (IP: 192.168.1.148)
+[2025-06-17 19:01:03] restart: Requested by Console
+[2025-06-17 19:01:03] restart: Resource 'players' restarting...
+[2025-06-17 19:01:03] Stopping players
+[2025-06-17 19:01:03] Resource 'players' changed, reloading and starting
+[2025-06-17 19:01:03] Starting players
+[2025-06-17 19:01:03] SCRIPT ERROR: players\p.lua:57: unexpected symbol near ')'
+[2025-06-17 19:01:03] ERROR: Loading script failed: players\p.lua:57: unexpected symbol near ')'
+[2025-06-17 19:01:03] players restarted successfully
+[2025-06-17 19:01:20] restart: Requested by Console
+[2025-06-17 19:01:20] restart: Resource 'players' restarting...
+[2025-06-17 19:01:20] Stopping players
+[2025-06-17 19:01:20] Resource 'players' changed, reloading and starting
+[2025-06-17 19:01:20] Starting players
+[2025-06-17 19:01:20] SCRIPT ERROR: players\p.lua:65: 'end' expected (to close 'function' at line 57) near '<eof>'
+[2025-06-17 19:01:20] ERROR: Loading script failed: players\p.lua:65: 'end' expected (to close 'function' at line 57) near '<eof>'
+[2025-06-17 19:01:20] players restarted successfully
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : LJ MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..irst Script/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-17 19:01:53] Resources: 2 loaded, 0 failed
+[2025-06-17 19:01:53] Starting resources...
+[2025-06-17 19:01:53] SCRIPT ERROR: players\p.lua:54: unexpected symbol near ')'
+[2025-06-17 19:01:53] ERROR: Loading script failed: players\p.lua:54: unexpected symbol near ')'
+[2025-06-17 19:01:53] Server minclientversion is now 1.6.0-9.23088.0
+[2025-06-17 19:01:53] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-06-17 19:01:53] Server started and is ready to accept connections!
+[2025-06-17 19:01:53] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-17 19:01:53] Type 'help' for a list of commands.
+[2025-06-17 19:01:54] Querying MTA master server... success! (Auto detected IP:2.51.16.248)
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : LJ MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..irst Script/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-17 19:03:02] Resources: 2 loaded, 0 failed
+[2025-06-17 19:03:02] Starting resources...
+[2025-06-17 19:03:02] SCRIPT ERROR: players\p.lua:54: unexpected symbol near ')'
+[2025-06-17 19:03:02] ERROR: Loading script failed: players\p.lua:54: unexpected symbol near ')'
+[2025-06-17 19:03:02] Server minclientversion is now 1.6.0-9.23088.0
+[2025-06-17 19:03:02] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-06-17 19:03:02] Server started and is ready to accept connections!
+[2025-06-17 19:03:02] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-17 19:03:02] Type 'help' for a list of commands.
+[2025-06-17 19:03:03] Querying MTA master server... success! (Auto detected IP:2.51.16.248)
+[2025-06-17 19:03:42] restart: Requested by Console
+[2025-06-17 19:03:42] restart: Resource 'players' restarting...
+[2025-06-17 19:03:42] Stopping players
+[2025-06-17 19:03:42] Resource 'players' changed, reloading and starting
+[2025-06-17 19:03:42] Starting players
+[2025-06-17 19:03:42] SCRIPT ERROR: players\p.lua:54: unexpected symbol near ')'
+[2025-06-17 19:03:42] ERROR: Loading script failed: players\p.lua:54: unexpected symbol near ')'
+[2025-06-17 19:03:42] players restarted successfully
+[2025-06-17 19:03:56] restart: Requested by Console
+[2025-06-17 19:03:56] restart: Resource 'players' restarting...
+[2025-06-17 19:03:56] Stopping players
+[2025-06-17 19:03:56] Resource 'players' changed, reloading and starting
+[2025-06-17 19:03:56] Starting players
+[2025-06-17 19:03:56] players restarted successfully
+[2025-06-17 19:04:04] CONNECT: Liam_Jhon connected (IP: 192.168.1.148  Serial: CD25BFE185A89FB3E5A21C620B26D033  Version: 1.6.0-9.23196.0)
+[2025-06-17 19:04:05] JOIN: Liam_Jhon joined the game (IP: 192.168.1.148)
+[2025-06-17 19:06:08] CHAT: Liam_Jhon: d
+[2025-06-17 19:06:18] ERROR: players\p.lua:27: attempt to call global 'guiCreateWindow' (a nil value)
+[2025-06-17 21:01:26] Server stopped!
+[2025-06-17 21:01:27] Stopping resources.....
+[2025-06-17 21:01:28] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : LJ MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..irst Script/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-17 21:02:14] Resources: 2 loaded, 0 failed
+[2025-06-17 21:02:15] Starting resources....
+[2025-06-17 21:02:15] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-06-17 21:02:15] Server started and is ready to accept connections!
+[2025-06-17 21:02:15] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-17 21:02:15] Type 'help' for a list of commands.
+[2025-06-17 21:02:16] Querying MTA master server... success! (Auto detected IP:2.51.16.248)
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : LJ MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..irst Script/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-17 21:03:56] Resources: 2 loaded, 0 failed
+[2025-06-17 21:03:59] Starting resources....
+[2025-06-17 21:03:59] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-06-17 21:03:59] Server started and is ready to accept connections!
+[2025-06-17 21:03:59] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-17 21:03:59] Type 'help' for a list of commands.
+[2025-06-17 21:04:00] Querying MTA master server... success! (Auto detected IP:2.51.16.248)
+[2025-06-17 21:05:41] Server minclientversion is now 1.6.0-9.23088.0
+[2025-06-17 21:05:41] CONNECT: Liam_Jhon connected (IP: 192.168.1.148  Serial: CD25BFE185A89FB3E5A21C620B26D033  Version: 1.6.0-9.23196.0)
+[2025-06-17 21:05:41] JOIN: Liam_Jhon joined the game (IP: 192.168.1.148)
+[2025-06-17 21:06:07] start: Requested by Liam_Jhon(guest)
+[2025-06-17 21:06:08] Starting Loading-screen
+[2025-06-17 21:06:36] QUIT: Liam_Jhon left the game [Quit] 
+[2025-06-17 21:06:42] CONNECT: Liam_Jhon connected (IP: 192.168.1.148  Serial: CD25BFE185A89FB3E5A21C620B26D033  Version: 1.6.0-9.23196.0)
+[2025-06-17 21:06:42] JOIN: Liam_Jhon joined the game (IP: 192.168.1.148)
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : LJ MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..irst Script/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-17 21:46:46] Resources: 2 loaded, 0 failed
+[2025-06-17 21:46:48] Starting resources....
+[2025-06-17 21:46:48] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-06-17 21:46:48] Server started and is ready to accept connections!
+[2025-06-17 21:46:48] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-17 21:46:48] Type 'help' for a list of commands.
+[2025-06-17 21:46:50] Querying MTA master server... success! (Auto detected IP:2.51.16.248)
+[2025-06-17 21:48:04] Server minclientversion is now 1.6.0-9.23088.0
+[2025-06-17 21:48:04] CONNECT: Liam_Jhon connected (IP: 192.168.1.148  Serial: CD25BFE185A89FB3E5A21C620B26D033  Version: 1.6.0-9.23196.0)
+[2025-06-17 21:48:06] JOIN: Liam_Jhon joined the game (IP: 192.168.1.148)
+[2025-06-17 21:48:20] start: Requested by Liam_Jhon(guest)
+[2025-06-17 21:48:21] Starting Loading-screen
+[2025-06-17 21:48:34] QUIT: Liam_Jhon left the game [Quit] 
+[2025-06-17 21:48:40] CONNECT: Liam_Jhon connected (IP: 192.168.1.148  Serial: CD25BFE185A89FB3E5A21C620B26D033  Version: 1.6.0-9.23196.0)
+[2025-06-17 21:48:40] JOIN: Liam_Jhon joined the game (IP: 192.168.1.148)
+[2025-06-17 21:52:41] Resource 'Loading-screen' changed while running, reloading and restarting
+[2025-06-17 21:52:41] Stopping Loading-screen
+[2025-06-17 21:52:41] ERROR: Couldn't find file(s) html/assets/logo.png for resource Loading-screen
+[2025-06-17 21:52:41] Loading of resource 'Loading-screen' failed
+[2025-06-17 21:52:41] ERROR: Problem with resource: Loading-screen; Couldn't find file(s) html/assets/logo.png for resource Loading-screen
+[2025-06-17 21:52:41] Resources: 1 loaded, 1 failed
+[2025-06-17 21:53:11] stop: Requested by Liam_Jhon(guest)
+[2025-06-17 21:53:40] Resource 'Loading-screen' changed, reloading
+[2025-06-17 21:53:40] ERROR: Couldn't find file(s) html/assets/logo.png for resource Loading-screen
+[2025-06-17 21:53:40] Loading of resource 'Loading-screen' failed
+[2025-06-17 21:53:40] ERROR: Problem with resource: Loading-screen; Couldn't find file(s) html/assets/logo.png for resource Loading-screen
+[2025-06-17 21:53:40] Resources: 1 loaded, 1 failed
+[2025-06-17 21:54:41] Resource 'Loading-screen' changed, reloading
+[2025-06-17 21:54:41] ERROR: Couldn't find file(s) html/assets/logo.png for resource Loading-screen
+[2025-06-17 21:54:41] Loading of resource 'Loading-screen' failed
+[2025-06-17 21:54:41] ERROR: Problem with resource: Loading-screen; Couldn't find file(s) html/assets/logo.png for resource Loading-screen
+[2025-06-17 21:54:41] Resources: 1 loaded, 1 failed
+[2025-06-17 21:54:45] Resource 'Loading-screen' changed, reloading
+[2025-06-17 21:54:45] ERROR: Couldn't find file(s) html/assets/logo.png for resource Loading-screen
+[2025-06-17 21:54:45] Loading of resource 'Loading-screen' failed
+[2025-06-17 21:54:45] ERROR: Problem with resource: Loading-screen; Couldn't find file(s) html/assets/logo.png for resource Loading-screen
+[2025-06-17 21:54:45] Resources: 1 loaded, 1 failed
+[2025-06-17 21:54:51] stop: Requested by Liam_Jhon(guest)
+[2025-06-17 21:55:19] start: Requested by Console
+[2025-06-17 21:55:19] start: Resource 'loading-screen' is loaded, but has errors (Couldn't find file(s) html/assets/logo.png for resource Loading-screen)
+[2025-06-17 21:56:29] stop: Requested by Liam_Jhon(guest)
+[2025-06-17 21:56:52] Resource 'Loading-screen' changed, reloading
+[2025-06-17 21:56:52] New resource 'Loading-screen' loaded
+[2025-06-17 21:56:52] Resources: 2 loaded, 0 failed
+[2025-06-17 21:57:10] start: Requested by Liam_Jhon(guest)
+[2025-06-17 21:57:10] Starting Loading-screen
+[2025-06-17 23:05:27] Resource 'Loading-screen' changed while running, reloading and restarting
+[2025-06-17 23:05:27] Stopping Loading-screen
+[2025-06-17 23:05:28] New resource 'Loading-screen' loaded
+[2025-06-17 23:05:29] Resources: 2 loaded, 0 failed
+[2025-06-17 23:05:29] Starting Loading-screen
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : LJ MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..irst Script/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-17 23:32:27] Resources: 2 loaded, 0 failed
+[2025-06-17 23:32:28] Starting resources....
+[2025-06-17 23:32:28] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-06-17 23:32:28] Server started and is ready to accept connections!
+[2025-06-17 23:32:28] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-17 23:32:28] Type 'help' for a list of commands.
+[2025-06-17 23:32:30] Querying MTA master server... success! (Auto detected IP:2.51.16.248)
+[2025-06-17 23:33:58] Server minclientversion is now 1.6.0-9.23088.0
+[2025-06-17 23:33:58] CONNECT: Liam_Jhon connected (IP: 192.168.1.148  Serial: CD25BFE185A89FB3E5A21C620B26D033  Version: 1.6.0-9.23196.0)
+[2025-06-17 23:34:04] JOIN: Liam_Jhon joined the game (IP: 192.168.1.148)
+[2025-06-17 23:36:06] start: Requested by Liam_Jhon(guest)
+[2025-06-17 23:36:07] Starting Loading-screen
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : LJ MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..irst Script/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-19 12:29:03] ERROR: Couldn't find file(s) html/assets/logo.jpg for resource Loading-screen
+[2025-06-19 12:29:03] Loading of resource 'Loading-screen' failed
+[2025-06-19 12:29:03] ERROR: Problem with resource: Loading-screen; Couldn't find file(s) html/assets/logo.jpg for resource Loading-screen
+[2025-06-19 12:29:03] Resources: 1 loaded, 1 failed
+[2025-06-19 12:29:04] Starting resources....
+[2025-06-19 12:29:04] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-06-19 12:29:04] Server started and is ready to accept connections!
+[2025-06-19 12:29:04] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-19 12:29:04] Type 'help' for a list of commands.
+[2025-06-19 12:29:06] Querying MTA master server... success! (Auto detected IP:2.51.16.248)
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : LJ MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..irst Script/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-19 18:10:34] ERROR: Couldn't find script(s) db.lua for resource database
+[2025-06-19 18:10:34] Loading of resource 'database' failed
+[2025-06-19 18:10:34] ERROR: Problem with resource: database; Couldn't find script(s) db.lua for resource database
+[2025-06-19 18:10:34] Resources: 2 loaded, 1 failed
+[2025-06-19 18:10:36] Starting resources...
+[2025-06-19 18:10:36] ERROR: Unable to start resource database; Couldn't find script(s) db.lua for resource database
+[2025-06-19 18:10:36] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-06-19 18:10:36] Server started and is ready to accept connections!
+[2025-06-19 18:10:36] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-19 18:10:36] Type 'help' for a list of commands.
+[2025-06-19 18:10:38] Querying MTA master server... success! (Auto detected IP:2.51.16.248)
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : LJ MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..irst Script/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-19 18:12:52] Resources: 3 loaded, 0 failed
+[2025-06-19 18:12:52] Starting resources.....
+[2025-06-19 18:12:52] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-06-19 18:12:52] Server started and is ready to accept connections!
+[2025-06-19 18:12:52] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-19 18:12:52] Type 'help' for a list of commands.
+[2025-06-19 18:12:53] Querying MTA master server... success! (Auto detected IP:2.51.16.248)
+[2025-06-19 18:17:18] Server minclientversion is now 1.6.0-9.23088.0
+[2025-06-19 18:17:18] CONNECT: Liam_Jhon connected (IP: 192.168.1.148  Serial: CD25BFE185A89FB3E5A21C620B26D033  Version: 1.6.0-9.23196.0)
+[2025-06-19 18:17:44] JOIN: Liam_Jhon joined the game (IP: 192.168.1.148)
+[2025-06-19 18:17:44] ERROR: players\p.lua:4: attempt to call global 'GetPlayerName' (a nil value)
+[2025-06-19 18:18:29] CHAT: Liam_Jhon: ji
+[2025-06-19 18:19:32] Server stopped!
+[2025-06-19 18:19:32] Stopping resources.....
+[2025-06-19 18:19:32] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : LJ MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..irst Script/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-19 18:19:38] Resources: 3 loaded, 0 failed
+[2025-06-19 18:19:38] Starting resources.....
+[2025-06-19 18:19:38] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-06-19 18:19:38] Server started and is ready to accept connections!
+[2025-06-19 18:19:38] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-19 18:19:38] Type 'help' for a list of commands.
+[2025-06-19 18:19:38] Querying MTA master server... success! (Auto detected IP:2.51.16.248)
+[2025-06-19 18:19:58] Server minclientversion is now 1.6.0-9.23088.0
+[2025-06-19 18:19:58] CONNECT: Liam_Jhon connected (IP: 192.168.1.148  Serial: CD25BFE185A89FB3E5A21C620B26D033  Version: 1.6.0-9.23196.0)
+[2025-06-19 18:19:58] JOIN: Liam_Jhon joined the game (IP: 192.168.1.148)
+[2025-06-19 18:19:58] ERROR: players\p.lua:9: attempt to call global 'GetPlayerName' (a nil value)
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : LJ MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..irst Script/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-19 18:31:59] Resources: 3 loaded, 0 failed
+[2025-06-19 18:32:00] Starting resources...
+[2025-06-19 18:32:00] INFO: Trying to connect db
+[2025-06-19 18:32:00] INFO: Success: Connected to the MySQL database server
+[2025-06-19 18:32:00] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-06-19 18:32:00] Server started and is ready to accept connections!
+[2025-06-19 18:32:00] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-19 18:32:00] Type 'help' for a list of commands.
+[2025-06-19 18:32:01] Querying MTA master server... success! (Auto detected IP:2.51.16.248)
+[2025-06-19 18:32:36] Resource 'players' changed while running, reloading and restarting
+[2025-06-19 18:32:36] Stopping players
+[2025-06-19 18:32:36] New resource 'players' loaded
+[2025-06-19 18:32:36] Resources: 3 loaded, 0 failed
+[2025-06-19 18:32:36] Starting players
+[2025-06-19 18:32:36] INFO: Success: Connected to the MySQL database server
+[2025-06-19 18:32:52] stopall: Stopping all resources
+[2025-06-19 18:32:52] Stopping resources.....
+[2025-06-19 18:32:56] Server stopped!
+[2025-06-19 18:32:56] Stopping resources...
+[2025-06-19 18:32:56] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : LJ MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..irst Script/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-19 18:33:05] Resources: 3 loaded, 0 failed
+[2025-06-19 18:33:05] Starting resources...
+[2025-06-19 18:33:05] INFO: Trying to connect db
+[2025-06-19 18:33:05] INFO: Success: Connected to the MySQL database server
+[2025-06-19 18:33:05] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-06-19 18:33:05] Server started and is ready to accept connections!
+[2025-06-19 18:33:05] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-19 18:33:05] Type 'help' for a list of commands.
+[2025-06-19 18:33:06] Querying MTA master server... success! (Auto detected IP:2.51.16.248)
+[2025-06-19 18:33:11] INFO: Success: Connected to the MySQL database server
+[2025-06-19 18:35:32] Resource 'players' changed while running, reloading and restarting
+[2025-06-19 18:35:32] Stopping players
+[2025-06-19 18:35:32] New resource 'players' loaded
+[2025-06-19 18:35:32] Resources: 3 loaded, 0 failed
+[2025-06-19 18:35:32] Starting players
+[2025-06-19 18:35:32] INFO: Successfully loaded p.lua1
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : LJ MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..irst Script/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-19 18:35:52] Resources: 3 loaded, 0 failed
+[2025-06-19 18:35:52] Starting resources...
+[2025-06-19 18:35:52] INFO: Trying to connect db
+[2025-06-19 18:35:52] INFO: Success: Connected to the MySQL database server
+[2025-06-19 18:35:52] INFO: Successfully loaded p.lua1
+[2025-06-19 18:35:52] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-06-19 18:35:52] Server started and is ready to accept connections!
+[2025-06-19 18:35:52] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-19 18:35:52] Type 'help' for a list of commands.
+[2025-06-19 18:35:53] Querying MTA master server... success! (Auto detected IP:2.51.16.248)
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : LJ MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..irst Script/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-19 18:36:45] Resources: 3 loaded, 0 failed
+[2025-06-19 18:36:45] Starting resources...
+[2025-06-19 18:36:45] INFO: Trying to connect db
+[2025-06-19 18:36:45] INFO: Success: Connected to the MySQL database server
+[2025-06-19 18:36:45] INFO: Successfully loaded p.lua1
+[2025-06-19 18:36:45] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-06-19 18:36:45] Server started and is ready to accept connections!
+[2025-06-19 18:36:45] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-19 18:36:45] Type 'help' for a list of commands.
+[2025-06-19 18:36:46] Querying MTA master server... success! (Auto detected IP:2.51.16.248)
+[2025-06-19 18:39:37] Server minclientversion is now 1.6.0-9.23088.0
+[2025-06-19 18:39:37] CONNECT: Liam_Jhon connected (IP: 192.168.1.148  Serial: CD25BFE185A89FB3E5A21C620B26D033  Version: 1.6.0-9.23196.0)
+[2025-06-19 18:39:38] JOIN: Liam_Jhon joined the game (IP: 192.168.1.148)
+[2025-06-19 18:39:38] ERROR: players\p.lua:10: attempt to call global 'GetPlayerName' (a nil value)
+[2025-06-19 18:44:22] restart: Requested by Liam_Jhon(guest)
+[2025-06-19 18:44:22] Stopping players
+[2025-06-19 18:44:22] Starting players
+[2025-06-19 18:44:22] INFO: Successfully loaded p.lua1
+[2025-06-19 18:44:22] players restarted successfully
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : LJ MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..irst Script/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-19 19:10:59] Resources: 3 loaded, 0 failed
+[2025-06-19 19:11:00] Starting resources...
+[2025-06-19 19:11:00] INFO: Trying to connect db
+[2025-06-19 19:11:00] INFO: Successfully loaded p.lua1
+[2025-06-19 19:11:00] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-06-19 19:11:00] Server started and is ready to accept connections!
+[2025-06-19 19:11:00] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-19 19:11:00] Type 'help' for a list of commands.
+[2025-06-19 19:11:01] Querying MTA master server... success! (Auto detected IP:2.51.16.248)
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : LJ MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..irst Script/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-19 19:50:56] Resources: 3 loaded, 0 failed
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : LJ MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..irst Script/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-19 19:51:04] Resources: 3 loaded, 0 failed
+[2025-06-19 19:51:05] Starting resources...
+[2025-06-19 19:51:05] INFO: Trying to connect db
+[2025-06-19 19:51:40] INFO: Success: Connected to the MySQL database server
+[2025-06-19 19:51:40] INFO: Successfully loaded p.lua1
+[2025-06-19 19:51:40] Querying MTA master server... success! (Auto detected IP:2.51.16.248)
+[2025-06-19 19:51:40] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-06-19 19:51:40] Server started and is ready to accept connections!
+[2025-06-19 19:51:40] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-19 19:51:40] Type 'help' for a list of commands.
+[2025-06-19 20:01:32] Server minclientversion is now 1.6.0-9.23088.0
+[2025-06-19 20:01:32] CONNECT: Liam_Jhon connected (IP: 192.168.1.148  Serial: CD25BFE185A89FB3E5A21C620B26D033  Version: 1.6.0-9.23196.0)
+[2025-06-19 20:01:45] JOIN: Liam_Jhon joined the game (IP: 192.168.1.148)
+[2025-06-19 20:01:45] INFO: Successfully loaded p.lua
+[2025-06-19 20:05:47] Resource 'players' changed while running, reloading and restarting
+[2025-06-19 20:05:47] Stopping players
+[2025-06-19 20:05:47] New resource 'players' loaded
+[2025-06-19 20:05:47] Resources: 3 loaded, 0 failed
+[2025-06-19 20:05:47] Starting players
+[2025-06-19 20:05:47] INFO: Successfully loaded p.lua1
+[2025-06-19 20:05:53] restart: Requested by Liam_Jhon(guest)
+[2025-06-19 20:05:53] Stopping players
+[2025-06-19 20:05:53] Starting players
+[2025-06-19 20:05:53] INFO: Successfully loaded p.lua1
+[2025-06-19 20:05:53] players restarted successfully
+[2025-06-19 20:07:36] QUIT: Liam_Jhon left the game [Quit] 
+[2025-06-19 20:07:39] CONNECT: Liam_Jhon connected (IP: 192.168.1.148  Serial: CD25BFE185A89FB3E5A21C620B26D033  Version: 1.6.0-9.23196.0)
+[2025-06-19 20:07:40] JOIN: Liam_Jhon joined the game (IP: 192.168.1.148)
+[2025-06-19 20:07:40] INFO: Successfully loaded p.lua
+[2025-06-19 20:08:13] CHAT: Liam_Jhon: g
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : LJ MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..irst Script/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-20 17:01:21] Compacting accounts database 'internal.db' ...
+[2025-06-20 17:01:22] Resources: 3 loaded, 0 failed
+[2025-06-20 17:01:22] Compacting database 'registry.db' ...
+[2025-06-20 17:01:23] Starting resources...
+[2025-06-20 17:01:23] INFO: Trying to connect db
+[2025-06-20 17:01:28] INFO: Success: Connected to the MySQL database server
+[2025-06-20 17:01:28] SCRIPT ERROR: players\p.lua:10: ')' expected near 'name'
+[2025-06-20 17:01:28] ERROR: Loading script failed: players\p.lua:10: ')' expected near 'name'
+[2025-06-20 17:01:28] Querying MTA master server... success! (Auto detected IP:2.51.16.248)
+[2025-06-20 17:01:28] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-06-20 17:01:28] Server started and is ready to accept connections!
+[2025-06-20 17:01:28] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-20 17:01:28] Type 'help' for a list of commands.
+[2025-06-20 17:03:04] Server minclientversion is now 1.6.0-9.23088.0
+[2025-06-20 17:03:04] CONNECT: Liam_Jhon connected (IP: 192.168.1.148  Serial: CD25BFE185A89FB3E5A21C620B26D033  Version: 1.6.0-9.23196.0)
+[2025-06-20 17:03:09] JOIN: Liam_Jhon joined the game (IP: 192.168.1.148)
+[2025-06-20 17:04:20] CHAT: Liam_Jhon: u
+[2025-06-20 17:06:24] Server stopped!
+[2025-06-20 17:06:25] Stopping resources......
+[2025-06-20 17:06:25] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : LJ MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..irst Script/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-20 17:09:12] Resources: 3 loaded, 0 failed
+[2025-06-20 17:09:12] Starting resources...
+[2025-06-20 17:09:12] INFO: Trying to connect db
+[2025-06-20 17:09:13] INFO: Success: Connected to the MySQL database server
+[2025-06-20 17:09:13] SCRIPT ERROR: players\p.lua:10: ')' expected near 'name'
+[2025-06-20 17:09:13] ERROR: Loading script failed: players\p.lua:10: ')' expected near 'name'
+[2025-06-20 17:09:13] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-06-20 17:09:13] Server started and is ready to accept connections!
+[2025-06-20 17:09:13] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-20 17:09:13] Type 'help' for a list of commands.
+[2025-06-20 17:09:13] Querying MTA master server... success! (Auto detected IP:2.51.16.248)
+[2025-06-20 17:10:02] restart: Requested by Console
+[2025-06-20 17:10:02] restart: Resource 'players' restarting...
+[2025-06-20 17:10:02] Stopping players
+[2025-06-20 17:10:02] Resource 'players' changed, reloading and starting
+[2025-06-20 17:10:02] Starting players
+[2025-06-20 17:10:02] SCRIPT ERROR: players\p.lua:10: ')' expected near '...'
+[2025-06-20 17:10:02] ERROR: Loading script failed: players\p.lua:10: ')' expected near '...'
+[2025-06-20 17:10:02] players restarted successfully
+[2025-06-20 17:10:32] restart: Requested by Console
+[2025-06-20 17:10:32] restart: Resource 'players' restarting...
+[2025-06-20 17:10:32] Stopping players
+[2025-06-20 17:10:32] Resource 'players' changed, reloading and starting
+[2025-06-20 17:10:32] Starting players
+[2025-06-20 17:10:32] INFO: Successfully loaded p.lua1
+[2025-06-20 17:10:32] players restarted successfully
+[2025-06-20 17:10:47] Server minclientversion is now 1.6.0-9.23088.0
+[2025-06-20 17:10:47] CONNECT: Liam_Jhon connected (IP: 192.168.1.148  Serial: CD25BFE185A89FB3E5A21C620B26D033  Version: 1.6.0-9.23196.0)
+[2025-06-20 17:10:47] JOIN: Liam_Jhon joined the game (IP: 192.168.1.148)
+[2025-06-20 17:10:47] WARNING: players\p.lua:11: dbPoll failed; You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Liam_Jhon' at line 1
+[2025-06-20 17:11:36] restart: Requested by Liam_Jhon(guest)
+[2025-06-20 17:11:46] restart: Requested by Liam_Jhon(guest)
+[2025-06-20 17:11:46] Stopping players
+[2025-06-20 17:11:46] Starting players
+[2025-06-20 17:11:46] INFO: Successfully loaded p.lua1
+[2025-06-20 17:11:46] players restarted successfully
+[2025-06-20 17:11:48] QUIT: Liam_Jhon left the game [Quit] 
+[2025-06-20 17:11:50] CONNECT: Liam_Jhon connected (IP: 192.168.1.148  Serial: CD25BFE185A89FB3E5A21C620B26D033  Version: 1.6.0-9.23196.0)
+[2025-06-20 17:11:50] JOIN: Liam_Jhon joined the game (IP: 192.168.1.148)
+[2025-06-20 17:11:51] WARNING: players\p.lua:11: dbPoll failed; You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Liam_Jhon' at line 1
+[2025-06-20 17:13:52] restart: Requested by Console
+[2025-06-20 17:13:52] restart: Resource 'players' restarting...
+[2025-06-20 17:13:52] Stopping players
+[2025-06-20 17:13:52] Resource 'players' changed, reloading and starting
+[2025-06-20 17:13:52] Starting players
+[2025-06-20 17:13:52] INFO: Successfully loaded p.lua1
+[2025-06-20 17:13:52] players restarted successfully
+[2025-06-20 17:13:58] CHAT: Liam_Jhon: reconnect
+[2025-06-20 17:14:02] QUIT: Liam_Jhon left the game [Quit] 
+[2025-06-20 17:14:03] CONNECT: Liam_Jhon connected (IP: 192.168.1.148  Serial: CD25BFE185A89FB3E5A21C620B26D033  Version: 1.6.0-9.23196.0)
+[2025-06-20 17:14:03] JOIN: Liam_Jhon joined the game (IP: 192.168.1.148)
+[2025-06-20 17:21:24] restart: Requested by Console
+[2025-06-20 17:21:24] restart: Resource 'players' restarting...
+[2025-06-20 17:21:24] Stopping players
+[2025-06-20 17:21:24] Resource 'players' changed, reloading and starting
+[2025-06-20 17:21:24] Starting players
+[2025-06-20 17:21:24] SCRIPT ERROR: players\p.lua:31: unexpected symbol near ')'
+[2025-06-20 17:21:24] ERROR: Loading script failed: players\p.lua:31: unexpected symbol near ')'
+[2025-06-20 17:21:24] players restarted successfully
+[2025-06-20 17:21:41] restart: Requested by Console
+[2025-06-20 17:21:41] restart: Resource 'players' restarting...
+[2025-06-20 17:21:41] Stopping players
+[2025-06-20 17:21:41] Resource 'players' changed, reloading and starting
+[2025-06-20 17:21:41] Starting players
+[2025-06-20 17:21:41] WARNING: players\p.lua:2: Bad argument @ 'getElementPosition' [Expected element at argument 1, got nil]
+[2025-06-20 17:21:41] WARNING: players\p.lua:3: Bad argument @ 'getPlayerName' [Expected element at argument 1, got nil]
+[2025-06-20 17:21:41] WARNING: players\p.lua:4: Bad argument @ 'getElementModel' [Expected element at argument 1, got nil]
+[2025-06-20 17:21:41] INFO: Successfully loaded p.lua1
+[2025-06-20 17:21:41] players restarted successfully
+[2025-06-20 17:22:26] restart: Requested by Console
+[2025-06-20 17:22:26] restart: Resource 'players' restarting...
+[2025-06-20 17:22:26] Stopping players
+[2025-06-20 17:22:26] Resource 'players' changed, reloading and starting
+[2025-06-20 17:22:26] Starting players
+[2025-06-20 17:22:26] INFO: Successfully loaded p.lua1
+[2025-06-20 17:22:26] players restarted successfully
+[2025-06-20 17:23:24] restart: Requested by Console
+[2025-06-20 17:23:24] restart: Resource 'players' restarting...
+[2025-06-20 17:23:24] Stopping players
+[2025-06-20 17:23:24] Resource 'players' changed, reloading and starting
+[2025-06-20 17:23:24] Starting players
+[2025-06-20 17:23:24] INFO: Successfully loaded p.lua1
+[2025-06-20 17:23:24] players restarted successfully
+[2025-06-20 17:23:35] QUIT: Liam_Jhon left the game [Quit] 
+[2025-06-20 17:23:35] WARNING: players\p.lua:37: dbExec failed; (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INTO users (Name, skin, x, y, z) VALUES ('Liam_Jhon', 0, 1938.643555, -1755.4140' at line 1
+[2025-06-20 17:32:13] restart: Requested by Console
+[2025-06-20 17:32:13] restart: Resource 'players' restarting...
+[2025-06-20 17:32:13] Stopping players
+[2025-06-20 17:32:13] Starting players
+[2025-06-20 17:32:13] INFO: Successfully loaded p.lua1
+[2025-06-20 17:32:13] players restarted successfully
+[2025-06-20 17:32:33] CONNECT: Liam_Jhon connected (IP: 192.168.1.148  Serial: CD25BFE185A89FB3E5A21C620B26D033  Version: 1.6.0-9.23196.0)
+[2025-06-20 17:32:42] JOIN: Liam_Jhon joined the game (IP: 192.168.1.148)
+[2025-06-20 17:37:37] restart: Requested by Console
+[2025-06-20 17:37:37] restart: Resource 'players' restarting...
+[2025-06-20 17:37:37] Stopping players
+[2025-06-20 17:37:37] Resource 'players' changed, reloading and starting
+[2025-06-20 17:37:37] Starting players
+[2025-06-20 17:37:37] INFO: Successfully loaded p.lua1
+[2025-06-20 17:37:37] players restarted successfully
+[2025-06-20 17:37:45] CHAT: Liam_Jhon: reconnect
+[2025-06-20 17:37:48] QUIT: Liam_Jhon left the game [Quit] 
+[2025-06-20 17:37:48] WARNING: players\p.lua:33: Bad argument @ 'getElementPosition' [Expected element at argument 1, got nil]
+[2025-06-20 17:37:48] WARNING: players\p.lua:37: dbExec failed; (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INTO users (name, skin, x, y, z) VALUES ('Liam_Jhon', 0, 0, NULL, NULL)' at line 1
+[2025-06-20 17:37:51] CONNECT: Liam_Jhon connected (IP: 192.168.1.148  Serial: CD25BFE185A89FB3E5A21C620B26D033  Version: 1.6.0-9.23196.0)
+[2025-06-20 17:37:52] JOIN: Liam_Jhon joined the game (IP: 192.168.1.148)
+[2025-06-20 17:45:32] restart: Requested by Console
+[2025-06-20 17:45:32] restart: Resource 'players' restarting...
+[2025-06-20 17:45:32] Stopping players
+[2025-06-20 17:45:32] Resource 'players' changed, reloading and starting
+[2025-06-20 17:45:32] Starting players
+[2025-06-20 17:45:32] INFO: Successfully loaded p.lua1
+[2025-06-20 17:45:32] players restarted successfully
+[2025-06-20 17:46:01] restart: Requested by Console
+[2025-06-20 17:46:01] restart: Resource 'players' restarting...
+[2025-06-20 17:46:01] Stopping players
+[2025-06-20 17:46:01] Resource 'players' changed, reloading and starting
+[2025-06-20 17:46:01] Starting players
+[2025-06-20 17:46:01] INFO: Successfully loaded p.lua1
+[2025-06-20 17:46:01] players restarted successfully
+[2025-06-20 17:46:52] restart: Requested by Console
+[2025-06-20 17:46:52] restart: Resource 'players' restarting...
+[2025-06-20 17:46:52] Stopping players
+[2025-06-20 17:46:52] Resource 'players' changed, reloading and starting
+[2025-06-20 17:46:52] Starting players
+[2025-06-20 17:46:52] INFO: Successfully loaded p.lua1
+[2025-06-20 17:46:52] players restarted successfully
+[2025-06-20 17:47:31] QUIT: Liam_Jhon left the game [Quit] 
+[2025-06-20 17:47:32] WARNING: players\p.lua:38: dbExec failed; (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.546875''' at line 1
+[2025-06-20 17:48:05] CONNECT: Liam_Jhon connected (IP: 192.168.1.148  Serial: CD25BFE185A89FB3E5A21C620B26D033  Version: 1.6.0-9.23196.0)
+[2025-06-20 17:48:05] JOIN: Liam_Jhon joined the game (IP: 192.168.1.148)
+[2025-06-20 17:51:28] QUIT: Liam_Jhon left the game [Quit] 
+[2025-06-20 17:51:28] WARNING: players\p.lua:38: dbExec failed; (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.546875''' at line 1
+[2025-06-20 18:20:31] restart: Requested by Console
+[2025-06-20 18:20:31] restart: Resource 'players' restarting...
+[2025-06-20 18:20:31] Stopping players
+[2025-06-20 18:20:32] Resource 'players' changed, reloading and starting
+[2025-06-20 18:20:32] Starting players
+[2025-06-20 18:20:32] INFO: Successfully loaded p.lua1
+[2025-06-20 18:20:32] players restarted successfully
+[2025-06-20 18:20:44] CONNECT: Liam_Jhon connected (IP: 192.168.1.148  Serial: CD25BFE185A89FB3E5A21C620B26D033  Version: 1.6.0-9.23196.0)
+[2025-06-20 18:20:46] JOIN: Liam_Jhon joined the game (IP: 192.168.1.148)
+[2025-06-20 18:22:21] QUIT: Liam_Jhon left the game [Quit] 
+[2025-06-20 18:22:21] WARNING: players\p.lua:38: dbExec failed; (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.382812''' at line 1
+[2025-06-20 19:13:22] restart: Requested by Console
+[2025-06-20 19:13:22] restart: Resource 'players' restarting...
+[2025-06-20 19:13:22] Stopping players
+[2025-06-20 19:13:22] Resource 'players' changed, reloading and starting
+[2025-06-20 19:13:23] Starting players
+[2025-06-20 19:13:23] SCRIPT ERROR: players\p.lua:44: ')' expected near 'x'
+[2025-06-20 19:13:23] ERROR: Loading script failed: players\p.lua:44: ')' expected near 'x'
+[2025-06-20 19:13:23] players restarted successfully
+[2025-06-20 19:14:22] * Syntax: restart <resource1> <resource2> ...
+[2025-06-20 19:14:30] restart: Requested by Console
+[2025-06-20 19:14:30] restart: Resource 'players' restarting...
+[2025-06-20 19:14:30] Stopping players
+[2025-06-20 19:14:30] Resource 'players' changed, reloading and starting
+[2025-06-20 19:14:30] Starting players
+[2025-06-20 19:14:30] SCRIPT ERROR: players\p.lua:44: ')' expected near 'x'
+[2025-06-20 19:14:30] ERROR: Loading script failed: players\p.lua:44: ')' expected near 'x'
+[2025-06-20 19:14:30] players restarted successfully
+[2025-06-20 19:16:29] restart: Requested by Console
+[2025-06-20 19:16:29] restart: Resource 'players' restarting...
+[2025-06-20 19:16:29] Stopping players
+[2025-06-20 19:16:29] Resource 'players' changed, reloading and starting
+[2025-06-20 19:16:29] Starting players
+[2025-06-20 19:16:29] INFO: Successfully loaded p.lua1
+[2025-06-20 19:16:29] players restarted successfully
+[2025-06-20 19:26:09] restart: Requested by Console
+[2025-06-20 19:26:09] restart: Resource 'players' restarting...
+[2025-06-20 19:26:09] Stopping players
+[2025-06-20 19:26:09] Starting players
+[2025-06-20 19:26:09] INFO: Successfully loaded p.lua1
+[2025-06-20 19:26:09] players restarted successfully
+[2025-06-20 19:26:18] restart: Requested by Console
+[2025-06-20 19:26:18] restart: Resource 'all' could not be found
+[2025-06-20 20:00:27] restart: Requested by Console
+[2025-06-20 20:00:27] restart: Resource 'player' could not be found
+[2025-06-20 20:00:30] restart: Requested by Console
+[2025-06-20 20:00:30] restart: Resource 'database' could not be restarted as it is protected
+[2025-06-20 20:00:40] restart: Requested by Console
+[2025-06-20 20:00:40] restart: Resource 'players' restarting...
+[2025-06-20 20:00:40] Stopping players
+[2025-06-20 20:00:40] Starting players
+[2025-06-20 20:00:40] INFO: Successfully loaded p.lua1
+[2025-06-20 20:00:40] players restarted successfully
+[2025-06-20 20:00:52] CONNECT: Liam_Jhon connected (IP: 192.168.1.148  Serial: CD25BFE185A89FB3E5A21C620B26D033  Version: 1.6.0-9.23196.0)
+[2025-06-20 20:00:57] JOIN: Liam_Jhon joined the game (IP: 192.168.1.148)
+[2025-06-20 20:02:49] QUIT: Liam_Jhon left the game [Quit] 
+[2025-06-20 20:02:57] CONNECT: Liam_Jhon connected (IP: 192.168.1.148  Serial: CD25BFE185A89FB3E5A21C620B26D033  Version: 1.6.0-9.23196.0)
+[2025-06-20 20:02:57] JOIN: Liam_Jhon joined the game (IP: 192.168.1.148)
+[2025-06-20 20:02:57] INFO: Spawn in last loc
+[2025-06-20 20:04:17] CHAT: Liam_Jhon: disconnect
+[2025-06-20 20:04:32] QUIT: Liam_Jhon left the game [Quit] 
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : LJ MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..irst Script/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-21 00:34:08] Resources: 3 loaded, 0 failed
+[2025-06-21 00:34:08] Starting resources...
+[2025-06-21 00:34:08] INFO: Trying to connect db
+[2025-06-21 00:34:13] INFO: Success: Connected to the MySQL database server
+[2025-06-21 00:34:13] INFO: Successfully loaded p.lua1
+[2025-06-21 00:34:13] Querying MTA master server... success! (Auto detected IP:2.51.16.248)
+[2025-06-21 00:34:13] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-06-21 00:34:13] Server started and is ready to accept connections!
+[2025-06-21 00:34:13] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-21 00:34:13] Type 'help' for a list of commands.
+[2025-06-21 00:36:12] Server minclientversion is now 1.6.0-9.23088.0
+[2025-06-21 00:36:12] CONNECT: Liam_Jhon connected (IP: 192.168.1.148  Serial: CD25BFE185A89FB3E5A21C620B26D033  Version: 1.6.0-9.23196.0)
+[2025-06-21 00:36:22] JOIN: Liam_Jhon joined the game (IP: 192.168.1.148)
+[2025-06-21 00:38:18] restart: Requested by Liam_Jhon(guest)
+[2025-06-21 00:38:18] Stopping Loading-screen
+[2025-06-21 00:38:20] Starting Loading-screen
+[2025-06-21 00:38:21] Loading-screen restarted successfully
+[2025-06-21 01:25:02] QUIT: Liam_Jhon left the game [Quit] 
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : LJ MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..irst Script/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-21 15:49:46] Resources: 3 loaded, 0 failed
+[2025-06-21 15:49:47] Starting resources...
+[2025-06-21 15:49:47] INFO: Trying to connect db
+[2025-06-21 15:49:51] INFO: Success: Connected to the MySQL database server
+[2025-06-21 15:49:51] INFO: Successfully loaded p.lua1
+[2025-06-21 15:49:51] Querying MTA master server... success! (Auto detected IP:2.51.16.248)
+[2025-06-21 15:49:51] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-06-21 15:49:51] Server started and is ready to accept connections!
+[2025-06-21 15:49:51] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-21 15:49:51] Type 'help' for a list of commands.
+[2025-06-21 15:51:47] Server minclientversion is now 1.6.0-9.23088.0
+[2025-06-21 15:51:47] CONNECT: Liam_Jhon connected (IP: 192.168.1.148  Serial: CD25BFE185A89FB3E5A21C620B26D033  Version: 1.6.0-9.23196.0)
+[2025-06-21 15:51:51] JOIN: Liam_Jhon joined the game (IP: 192.168.1.148)
+[2025-06-21 15:53:19] restart: Requested by Liam_Jhon(guest)
+[2025-06-21 15:53:19] Stopping Loading-screen
+[2025-06-21 15:53:35] Starting Loading-screen
+[2025-06-21 15:53:35] Loading-screen restarted successfully
+[2025-06-21 15:53:35] CHAT: Liam_Jhon: h
+[2025-06-21 15:58:48] CHAT: Liam_Jhon: hi
+[2025-06-21 17:18:16] restart: Requested by Console
+[2025-06-21 17:18:16] restart: Resource 'Loading-screen' restarting...
+[2025-06-21 17:18:16] Stopping Loading-screen
+[2025-06-21 17:18:17] Resource 'Loading-screen' changed, reloading and starting
+[2025-06-21 17:18:20] Starting Loading-screen
+[2025-06-21 17:18:20] Loading-screen restarted successfully
+[2025-06-21 17:20:00] restart: Requested by Liam_Jhon(guest)
+[2025-06-21 17:20:00] Stopping Loading-screen
+[2025-06-21 17:20:22] Starting Loading-screen
+[2025-06-21 17:20:22] Loading-screen restarted successfully
+[2025-06-21 17:41:11] restart: Requested by Console
+[2025-06-21 17:41:11] restart: Resource 'players' restarting...
+[2025-06-21 17:41:11] Stopping players
+[2025-06-21 17:41:11] Starting players
+[2025-06-21 17:41:11] INFO: Successfully loaded p.lua1
+[2025-06-21 17:41:11] players restarted successfully
+[2025-06-21 17:42:45] restart: Requested by Console
+[2025-06-21 17:42:45] restart: Resource 'Loading-screen' restarting...
+[2025-06-21 17:42:45] Stopping Loading-screen
+[2025-06-21 17:42:45] Resource 'Loading-screen' changed, reloading and starting
+[2025-06-21 17:42:46] Starting Loading-screen
+[2025-06-21 17:42:46] Loading-screen restarted successfully
+[2025-06-21 17:42:59] CHAT: Liam_Jhon: hi
+[2025-06-21 17:43:06] CHAT: Liam_Jhon: s
+[2025-06-21 17:51:26] restart: Requested by Console
+[2025-06-21 17:51:26] restart: Resource 'Loading-screen' restarting...
+[2025-06-21 17:51:26] Stopping Loading-screen
+[2025-06-21 17:51:27] Resource 'Loading-screen' changed, reloading and starting
+[2025-06-21 17:51:27] Starting Loading-screen
+[2025-06-21 17:51:27] Loading-screen restarted successfully
+[2025-06-21 17:51:34] CHAT: Liam_Jhon: ls
+[2025-06-21 17:51:41] CHAT: Liam_Jhon: h
+[2025-06-21 17:53:19] Resource 'Loading-screen' changed while running, reloading and restarting
+[2025-06-21 17:53:19] Stopping Loading-screen
+[2025-06-21 17:53:19] New resource 'Loading-screen' loaded
+[2025-06-21 17:53:19] Resources: 3 loaded, 0 failed
+[2025-06-21 17:53:19] Starting Loading-screen
+[2025-06-21 17:53:58] Resource 'Loading-screen' changed while running, reloading and restarting
+[2025-06-21 17:53:58] Stopping Loading-screen
+[2025-06-21 17:53:58] New resource 'Loading-screen' loaded
+[2025-06-21 17:53:58] Resources: 3 loaded, 0 failed
+[2025-06-21 17:53:58] Starting Loading-screen
+[2025-06-21 17:54:00] restart: Requested by Console
+[2025-06-21 17:54:00] restart: Resource 'players' restarting...
+[2025-06-21 17:54:00] Stopping players
+[2025-06-21 17:54:00] Starting players
+[2025-06-21 17:54:00] INFO: Successfully loaded p.lua1
+[2025-06-21 17:54:00] players restarted successfully
+[2025-06-21 17:54:14] restart: Requested by Liam_Jhon(guest)
+[2025-06-21 17:54:14] Stopping Loading-screen
+[2025-06-21 17:54:18] Starting Loading-screen
+[2025-06-21 17:54:19] Loading-screen restarted successfully
+[2025-06-21 17:54:33] restart: Requested by Liam_Jhon(guest)
+[2025-06-21 17:54:33] Stopping Loading-screen
+[2025-06-21 17:54:37] Starting Loading-screen
+[2025-06-21 17:54:37] Loading-screen restarted successfully
+[2025-06-21 17:54:51] CHAT: Liam_Jhon: h
+[2025-06-21 17:56:31] Resource 'Loading-screen' changed while running, reloading and restarting
+[2025-06-21 17:56:31] Stopping Loading-screen
+[2025-06-21 17:56:31] New resource 'Loading-screen' loaded
+[2025-06-21 17:56:31] Resources: 3 loaded, 0 failed
+[2025-06-21 17:56:31] Starting Loading-screen
+[2025-06-21 18:12:02] Resource 'Loading-screen' changed while running, reloading and restarting
+[2025-06-21 18:12:02] Stopping Loading-screen
+[2025-06-21 18:12:02] New resource 'Loading-screen' loaded
+[2025-06-21 18:12:02] Resources: 3 loaded, 0 failed
+[2025-06-21 18:12:02] Starting Loading-screen
+[2025-06-21 18:12:17] Resource 'Loading-screen' changed while running, reloading and restarting
+[2025-06-21 18:12:17] Stopping Loading-screen
+[2025-06-21 18:12:17] New resource 'Loading-screen' loaded
+[2025-06-21 18:12:17] Resources: 3 loaded, 0 failed
+[2025-06-21 18:12:17] Starting Loading-screen
+[2025-06-21 18:25:48] Resource 'Loading-screen' changed while running, reloading and restarting
+[2025-06-21 18:25:48] Stopping Loading-screen
+[2025-06-21 18:25:48] New resource 'Loading-screen' loaded
+[2025-06-21 18:25:48] Resources: 3 loaded, 0 failed
+[2025-06-21 18:25:48] Starting Loading-screen
+[2025-06-21 18:28:30] restart: Requested by Console
+[2025-06-21 18:28:30] restart: Resource 'lLoading-screen' could not be found
+[2025-06-21 18:28:33] Resource 'Loading-screen' changed while running, reloading and restarting
+[2025-06-21 18:28:33] Stopping Loading-screen
+[2025-06-21 18:28:33] New resource 'Loading-screen' loaded
+[2025-06-21 18:28:33] Resources: 3 loaded, 0 failed
+[2025-06-21 18:28:33] Starting Loading-screen
+[2025-06-21 18:28:40] CHAT: Liam_Jhon: th
+[2025-06-21 18:28:55] restart: Requested by Liam_Jhon(guest)
+[2025-06-21 18:28:55] Stopping Loading-screen
+[2025-06-21 18:28:55] Starting Loading-screen
+[2025-06-21 18:28:55] Loading-screen restarted successfully
+[2025-06-21 18:30:02] Resource 'Loading-screen' changed while running, reloading and restarting
+[2025-06-21 18:30:02] Stopping Loading-screen
+[2025-06-21 18:30:02] New resource 'Loading-screen' loaded
+[2025-06-21 18:30:02] Resources: 3 loaded, 0 failed
+[2025-06-21 18:30:02] Starting Loading-screen
+[2025-06-21 18:30:13] Resource 'Loading-screen' changed while running, reloading and restarting
+[2025-06-21 18:30:13] Stopping Loading-screen
+[2025-06-21 18:30:13] New resource 'Loading-screen' loaded
+[2025-06-21 18:30:13] Resources: 3 loaded, 0 failed
+[2025-06-21 18:30:13] Starting Loading-screen
+[2025-06-21 18:37:52] Resource 'Loading-screen' changed while running, reloading and restarting
+[2025-06-21 18:37:52] Stopping Loading-screen
+[2025-06-21 18:37:52] New resource 'Loading-screen' loaded
+[2025-06-21 18:37:52] Resources: 3 loaded, 0 failed
+[2025-06-21 18:37:52] Starting Loading-screen
+[2025-06-21 18:38:10] restart: Requested by Liam_Jhon(guest)
+[2025-06-21 18:38:10] Stopping Loading-screen
+[2025-06-21 18:38:15] Starting Loading-screen
+[2025-06-21 18:38:15] Loading-screen restarted successfully
+[2025-06-21 18:39:08] Resource 'Loading-screen' changed while running, reloading and restarting
+[2025-06-21 18:39:08] Stopping Loading-screen
+[2025-06-21 18:39:08] New resource 'Loading-screen' loaded
+[2025-06-21 18:39:08] Resources: 3 loaded, 0 failed
+[2025-06-21 18:39:08] Starting Loading-screen
+[2025-06-21 18:39:14] restart: Requested by Console
+[2025-06-21 18:39:14] restart: Resource 'Loading-screen' restarting...
+[2025-06-21 18:39:14] Stopping Loading-screen
+[2025-06-21 18:39:15] Starting Loading-screen
+[2025-06-21 18:39:15] Loading-screen restarted successfully
+[2025-06-21 18:39:32] restart: Requested by Liam_Jhon(guest)
+[2025-06-21 18:39:32] Stopping Loading-screen
+[2025-06-21 18:39:52] Starting Loading-screen
+[2025-06-21 18:39:52] Loading-screen restarted successfully
+[2025-06-21 18:39:52] CHAT: Liam_Jhon: h
+[2025-06-21 18:39:52] CHAT: Liam_Jhon: h
+[2025-06-21 18:40:10] LOGIN: Liam_Jhon tried to log in as 'lj' with an invalid password (IP: 192.168.1.148  Serial: CD25BFE185A89FB3E5A21C620B26D033)
+[2025-06-21 18:40:18] LOGIN: Liam_Jhon tried to log in as 'Liam_Jhon' (Unknown account) (IP: 192.168.1.148  Serial: CD25BFE185A89FB3E5A21C620B26D033)
+[2025-06-21 18:40:35] restart: Requested by Liam_Jhon(guest)
+[2025-06-21 18:40:35] Stopping Loading-screen
+[2025-06-21 18:40:41] Starting Loading-screen
+[2025-06-21 18:40:41] Loading-screen restarted successfully
+[2025-06-21 18:42:04] Resource 'Loading-screen' changed while running, reloading and restarting
+[2025-06-21 18:42:04] Stopping Loading-screen
+[2025-06-21 18:42:04] New resource 'Loading-screen' loaded
+[2025-06-21 18:42:04] Resources: 3 loaded, 0 failed
+[2025-06-21 18:42:04] Starting Loading-screen
+[2025-06-21 18:42:09] restart: Requested by Console
+[2025-06-21 18:42:09] restart: Resource 'Loading-screen' restarting...
+[2025-06-21 18:42:09] Stopping Loading-screen
+[2025-06-21 18:42:09] Starting Loading-screen
+[2025-06-21 18:42:09] Loading-screen restarted successfully
+[2025-06-21 18:45:08] Resource 'Loading-screen' changed while running, reloading and restarting
+[2025-06-21 18:45:08] Stopping Loading-screen
+[2025-06-21 18:45:09] New resource 'Loading-screen' loaded
+[2025-06-21 18:45:09] Resources: 3 loaded, 0 failed
+[2025-06-21 18:45:09] Starting Loading-screen
+[2025-06-21 18:45:16] restart: Requested by Console
+[2025-06-21 18:45:16] restart: Resource 'Loading-screen' restarting...
+[2025-06-21 18:45:16] Stopping Loading-screen
+[2025-06-21 18:45:16] Starting Loading-screen
+[2025-06-21 18:45:16] Loading-screen restarted successfully
+[2025-06-21 18:45:29] CHAT: Liam_Jhon: htfw tght
+[2025-06-21 18:47:15] Resource 'Loading-screen' changed while running, reloading and restarting
+[2025-06-21 18:47:15] Stopping Loading-screen
+[2025-06-21 18:47:15] New resource 'Loading-screen' loaded
+[2025-06-21 18:47:15] Resources: 3 loaded, 0 failed
+[2025-06-21 18:47:15] Starting Loading-screen
+[2025-06-21 18:47:26] restart: Requested by Console
+[2025-06-21 18:47:26] restart: Resource 'Loadingreen' could not be found
+[2025-06-21 18:48:07] Resource 'Loading-screen' changed while running, reloading and restarting
+[2025-06-21 18:48:07] Stopping Loading-screen
+[2025-06-21 18:48:07] New resource 'Loading-screen' loaded
+[2025-06-21 18:48:07] Resources: 3 loaded, 0 failed
+[2025-06-21 18:48:07] Starting Loading-screen
+[2025-06-21 18:49:13] stop: Requested by Console
+[2025-06-21 18:49:13] stop: Resource 'Loading-screen' stopping...
+[2025-06-21 18:49:13] Stopping Loading-screen
+[2025-06-21 18:50:03] start: Requested by Console
+[2025-06-21 18:50:03] Resource 'Loading-screen' changed, reloading and starting
+[2025-06-21 18:50:03] Starting Loading-screen
+[2025-06-21 18:50:03] start: Resource 'Loading-screen' started
+[2025-06-21 18:50:49] CHAT: Liam_Jhon:  
+[2025-06-21 18:50:57] stop: Requested by Liam_Jhon(guest)
+[2025-06-21 18:50:57] Stopping Loading-screen
+[2025-06-21 18:51:39] Resource 'Loading-screen' changed, reloading
+[2025-06-21 18:51:39] New resource 'Loading-screen' loaded
+[2025-06-21 18:51:39] Resources: 3 loaded, 0 failed
+[2025-06-21 18:52:08] start: Requested by Console
+[2025-06-21 18:52:08] Resource 'Loading-screen' changed, reloading and starting
+[2025-06-21 18:52:08] Starting Loading-screen
+[2025-06-21 18:52:08] start: Resource 'Loading-screen' started
+[2025-06-21 18:55:37] stop: Requested by Console
+[2025-06-21 18:55:37] stop: Resource 'Loading-screen' stopping...
+[2025-06-21 18:55:37] Stopping Loading-screen
+[2025-06-21 18:55:49] restart: Requested by Console
+[2025-06-21 18:55:49] restart: Resource 'Loading-screen' is not running
+[2025-06-21 18:55:58] start: Requested by Console
+[2025-06-21 18:55:58] Resource 'Loading-screen' changed, reloading and starting
+[2025-06-21 18:55:58] Starting Loading-screen
+[2025-06-21 18:55:58] start: Resource 'Loading-screen' started
+[2025-06-21 18:56:33] Resource 'Loading-screen' changed while running, reloading and restarting
+[2025-06-21 18:56:33] Stopping Loading-screen
+[2025-06-21 18:56:33] New resource 'Loading-screen' loaded
+[2025-06-21 18:56:33] Resources: 3 loaded, 0 failed
+[2025-06-21 18:56:33] Starting Loading-screen
+[2025-06-21 18:56:44] restart: Requested by Liam_Jhon(guest)
+[2025-06-21 18:56:48] restart: Requested by Liam_Jhon(guest)
+[2025-06-21 18:56:48] Stopping Loading-screen
+[2025-06-21 18:56:55] Starting Loading-screen
+[2025-06-21 18:56:55] Loading-screen restarted successfully
+[2025-06-21 18:58:51] Resource 'Loading-screen' changed while running, reloading and restarting
+[2025-06-21 18:58:51] Stopping Loading-screen
+[2025-06-21 18:58:51] New resource 'Loading-screen' loaded
+[2025-06-21 18:58:51] Resources: 3 loaded, 0 failed
+[2025-06-21 18:58:51] Starting Loading-screen
+[2025-06-21 19:01:51] Resource 'Loading-screen' changed while running, reloading and restarting
+[2025-06-21 19:01:51] Stopping Loading-screen
+[2025-06-21 19:01:51] New resource 'Loading-screen' loaded
+[2025-06-21 19:01:51] Resources: 3 loaded, 0 failed
+[2025-06-21 19:01:51] Starting Loading-screen
+[2025-06-21 19:01:51] restart: Requested by Liam_Jhon(guest)
+[2025-06-21 19:01:51] Stopping Loading-screen
+[2025-06-21 19:01:51] Starting Loading-screen
+[2025-06-21 19:01:51] Loading-screen restarted successfully
+[2025-06-21 19:02:36] restart: Requested by Liam_Jhon(guest)
+[2025-06-21 19:02:36] Stopping Loading-screen
+[2025-06-21 19:02:53] Starting Loading-screen
+[2025-06-21 19:02:53] Loading-screen restarted successfully
+[2025-06-21 19:03:50] restart: Requested by Liam_Jhon(guest)
+[2025-06-21 19:03:50] Stopping Loading-screen
+[2025-06-21 19:04:26] Starting Loading-screen
+[2025-06-21 19:04:26] Loading-screen restarted successfully
+[2025-06-21 19:04:26] CHAT: Liam_Jhon: ahmedddddddddd
+[2025-06-21 19:05:24] restart: Requested by Liam_Jhon(guest)
+[2025-06-21 19:05:24] Stopping Loading-screen
+[2025-06-21 19:05:35] Starting Loading-screen
+[2025-06-21 19:05:35] Loading-screen restarted successfully
+[2025-06-21 19:06:28] restart: Requested by Liam_Jhon(guest)
+[2025-06-21 19:06:28] Stopping Loading-screen
+[2025-06-21 19:06:36] Starting Loading-screen
+[2025-06-21 19:06:36] Loading-screen restarted successfully
+[2025-06-21 20:00:35] QUIT: Liam_Jhon left the game [Quit] 
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : LJ MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..irst Script/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-08-03 14:11:21] Compacting accounts database 'internal.db' ...
+[2025-08-03 14:11:24] Resources: 3 loaded, 0 failed
+[2025-08-03 14:11:24] Compacting database 'registry.db' ...
+[2025-08-03 14:11:24] Starting resources...
+[2025-08-03 14:11:24] INFO: Trying to connect db
+[2025-08-03 14:11:29] WARNING: database\db.lua:5: Bad usage @ 'dbConnect' [Access denied for user 'u3079114_m9OfDMH0W5'@'bba-2-51-21-234.alshamil.net.ae' (using password: YES)]
+[2025-08-03 14:11:29] INFO: Error: Failed to connect to the MySQL database server
+[2025-08-03 14:11:29] INFO: Successfully loaded p.lua1
+[2025-08-03 14:11:29] Querying MTA master server... success! (Auto detected IP:2.51.21.234)
+[2025-08-03 14:11:29] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://multitheftauto.com/authserial
+[2025-08-03 14:11:29] Server started and is ready to accept connections!
+[2025-08-03 14:11:29] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-08-03 14:11:29] Type 'help' for a list of commands.
+[2025-08-03 14:32:51] Server minclientversion is now 1.6.0-9.23088.0
+[2025-08-03 14:32:52] CONNECT: Liam_Jhon connected (IP: 127.0.0.1  Serial: CD25BFE185A89FB3E5A21C620B26D033  Version: 1.6.0-9.23196.0)
+[2025-08-03 14:32:52] JOIN: Liam_Jhon joined the game (IP: 127.0.0.1)
+[2025-08-03 14:32:52] WARNING: players\p.lua:9: Bad argument @ 'dbQuery' [Expected db-connection at argument 1, got boolean]
+[2025-08-03 14:32:52] WARNING: players\p.lua:10: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got boolean]
+[2025-08-03 14:32:52] WARNING: players\p.lua:25: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got boolean]
+[2025-08-03 14:34:10] QUIT: Liam_Jhon left the game [Quit] 
+[2025-08-03 14:34:10] WARNING: players\p.lua:43: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got boolean]
+[2025-08-03 14:34:15] CONNECT: Liam_Jhon connected (IP: 127.0.0.1  Serial: CD25BFE185A89FB3E5A21C620B26D033  Version: 1.6.0-9.23196.0)
+[2025-08-03 14:34:15] JOIN: Liam_Jhon joined the game (IP: 127.0.0.1)
+[2025-08-03 14:34:16] WARNING: players\p.lua:9: Bad argument @ 'dbQuery' [Expected db-connection at argument 1, got boolean]
+[2025-08-03 14:34:16] WARNING: players\p.lua:10: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got boolean]
+[2025-08-03 14:34:16] WARNING: players\p.lua:25: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got boolean]
+[2025-08-03 14:35:01] QUIT: Liam_Jhon left the game [Quit] 
+[2025-08-03 14:35:01] WARNING: players\p.lua:43: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got boolean]
+[2025-08-03 14:35:04] CONNECT: Liam_Jhon connected (IP: 127.0.0.1  Serial: CD25BFE185A89FB3E5A21C620B26D033  Version: 1.6.0-9.23196.0)
+[2025-08-03 14:35:04] JOIN: Liam_Jhon joined the game (IP: 127.0.0.1)
+[2025-08-03 14:35:04] WARNING: players\p.lua:9: Bad argument @ 'dbQuery' [Expected db-connection at argument 1, got boolean]
+[2025-08-03 14:35:04] WARNING: players\p.lua:10: Bad argument @ 'dbPoll' [Expected db-query at argument 1, got boolean]
+[2025-08-03 14:35:04] WARNING: players\p.lua:25: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got boolean]
+[2025-08-03 14:35:43] QUIT: Liam_Jhon left the game [Quit] 
+[2025-08-03 14:35:43] WARNING: players\p.lua:43: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got boolean]
+[2025-08-03 14:36:37] SHUTDOWN: Got shutdown command from Console (No reason specified)
+[2025-08-03 14:36:37] Server stopped!
+[2025-08-03 14:36:37] Stopping resources......
+[2025-08-03 14:36:39] Closing SQLite3 database

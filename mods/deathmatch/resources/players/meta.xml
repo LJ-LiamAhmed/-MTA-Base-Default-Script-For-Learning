@@ -1,0 +1,5 @@
+<meta>
+    <info author="LJ"  type="Gamemode" name="LJ MTA SERVER" description="LJ's First Mta Test Server" />
+    <script src="p.lua" type="server"/>
+    <script src="login.lua" type="server"/>
+</meta>

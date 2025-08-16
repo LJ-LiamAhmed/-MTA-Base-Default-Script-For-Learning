@@ -1,0 +1,62 @@
+==================================================================
+= Multi Theft Auto: San Andreas v1.6
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..erver/mods/deathmatch/logs/local_server.log
+= Maximum players  : 32
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2025-06-14 13:42:11] Resource 'runcode' requests some acl rights. Use the command 'aclrequest list runcode'
+[2025-06-14 13:42:12] Resources: 201 loaded, 0 failed
+[2025-06-14 13:42:13] Starting resources...
+[2025-06-14 13:42:13] Server minclientversion is now 1.5.9-9.20957.0
+[2025-06-14 13:42:13] Server minclientversion is now 1.6.0-9.22676
+[2025-06-14 13:42:14] INFO: ===============================================================================
+[2025-06-14 13:42:14] INFO:  MTA:SA HANDLING EDITOR [hedit.github.io]
+[2025-06-14 13:42:14] Gamemode 'play' started.
+[2025-06-14 13:42:14] Server started and is ready to accept connections!
+[2025-06-14 13:42:14] To stop the server, type 'shutdown' or press Ctrl-C
+[2025-06-14 13:42:14] Type 'help' for a list of commands.
+[2025-06-14 13:42:15] CONNECT: Liam_Jhon connected (IP: 127.0.0.1  Serial: CD25BFE185A89FB3E5A21C620B26D033  Version: 1.6.0-9.23196.0)
+[2025-06-14 13:42:20] INFO: ===============================================================================
+[2025-06-14 13:42:29] JOIN: Liam_Jhon joined the game (IP: 127.0.0.1)
+[2025-06-14 13:45:54] CHAT: Liam_Jhon: help
+[2025-06-14 14:02:44] CHAT: Liam_Jhon: ha
+[2025-06-14 14:02:52] Vote started 'Change mode to play?'
+[2025-06-14 14:02:52] Map vote started by Liam_Jhon.
+[2025-06-14 14:02:52] Liam_Jhon voted 1 (Yes)
+[2025-06-14 14:02:52] Vote finished early as 100% (1/1 players) reached for option [Yes]
+[2025-06-14 14:02:52] Vote ended! [Yes]
+[2025-06-14 14:02:52] Stopping play
+[2025-06-14 14:02:52] Server minclientversion is now 1.6.0-9.22505.0
+[2025-06-14 14:02:52] Stopping freeroam
+[2025-06-14 14:02:52] Stopping playerblips
+[2025-06-14 14:02:52] Stopping internetradio
+[2025-06-14 14:02:52] Stopping superman
+[2025-06-14 14:02:52] Stopping hedit
+[2025-06-14 14:02:52] Server minclientversion is now 1.5.9-9.20957.0
+[2025-06-14 14:02:52] Stopping mapfixes
+[2025-06-14 14:02:53] Starting play
+[2025-06-14 14:02:55] Starting freeroam
+[2025-06-14 14:02:55] Starting playerblips
+[2025-06-14 14:02:55] Server minclientversion is now 1.6.0-9.22676
+[2025-06-14 14:02:57] Starting internetradio
+[2025-06-14 14:02:57] Starting superman
+[2025-06-14 14:03:01] Starting hedit
+[2025-06-14 14:03:01] INFO: ===============================================================================
+[2025-06-14 14:03:01] INFO:  MTA:SA HANDLING EDITOR [hedit.github.io]
+[2025-06-14 14:03:02] Starting mapfixes
+[2025-06-14 14:03:02] Gamemode 'play' started.
+[2025-06-14 14:03:02] startResource: Resource 'play' started
+[2025-06-14 14:03:07] INFO: ===============================================================================
+[2025-06-14 14:04:21] ACCOUNTS: Liam_Jhon registered account 'lj' (IP: 127.0.0.1  Serial: CD25BFE185A89FB3E5A21C620B26D033)
+[2025-06-14 14:04:31] LOGIN: (Everyone) Liam_Jhon successfully logged in as 'lj' (IP: 127.0.0.1  Serial: CD25BFE185A89FB3E5A21C620B26D033)
+[2025-06-14 14:04:41] QUIT: Liam_Jhon left the game [Quit] 
+[2025-06-14 14:04:42] Server stopped!
+[2025-06-14 14:04:42] Stopping resources..........................
+[2025-06-14 14:04:43] Closing SQLite3 database
